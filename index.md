@@ -26,7 +26,7 @@
   
 ---
 ## Social Media Links
-* **LinkedIN** - [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
+* **LinkedIN** - [https://www.linkedin.com/in/jeaimehp](https://www.linkedin.com/in/jeaimehp/)
 * **Twitter** - [@jeaimehp](https://twitter.com/jeaimehp)
 * **YouTube** - [Jeaime Powell](https://www.youtube.com/channel/UCDzJYzm3MsO5B_sWTQ295Kg/)
 
