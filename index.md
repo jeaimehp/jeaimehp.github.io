@@ -26,14 +26,14 @@
   
 ---
 ## Social Media Links
-* LinkedIN
-* Twitter
-* Instagram
+* **LinkedIN** - [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
+* **Twitter** - [@jeaimehp](https://twitter.com/jeaimehp)
+* **YouTube** - [Jeaime Powell](https://www.youtube.com/channel/UCDzJYzm3MsO5B_sWTQ295Kg/)
 
 ---
 ## Research Links
-* Research.gov
-* ORCID
+* **Research.gov**
+* **ORCID** - [https://orcid.org/0000-0003-1377-5422](https://orcid.org/0000-0003-1377-5422)
 
 ---
 ## Papers, Panels, and Presentations
