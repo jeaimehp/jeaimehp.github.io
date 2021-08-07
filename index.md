@@ -2,15 +2,15 @@
 
 ## Roles:
   * **Technical Research Design Analyst** 
-   * _[Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (Data Management & Collections)_
+   * [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) _(Data Management & Collections)_
   * **Senior Systems Administrator** 
-   * _[Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (Large Systems Support Group)_
+   * [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) _(Large Systems Support Group)_
   * **Curriculum Development Specialist** 
-   * _[Texas Advanced Computing Center](https://www.tacc.utexas.edu/) (Education and Outreach Group)_
+   * [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) _(Education and Outreach Group)_
   * **Lecturer** 
-   * _[The University of Texas at Austin](https://stat.utexas.edu/) (Department of Statistics and Data Science)_
+   * [The University of Texas at Austin](https://stat.utexas.edu/) _(Department of Statistics and Data Science)_
   * **Broadening Participation Hackathon Coordinator** 
-   * _[XSEDE](https://www.xsede.org/about/what-we-do)_
+   * [XSEDE](https://www.xsede.org/about/what-we-do)
   
 ---
 ## Current Projects
