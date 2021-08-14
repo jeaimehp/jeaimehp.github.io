@@ -19,7 +19,8 @@
   * RaspberryPi Version
   * [µSense](https://github.com/jeaimehp/microsense) (ESP32 LoRA Version)   
 * **Code@TACC: Connected**
-* **HackHPC Hackathons**
+* **Hackathons**
+  * [HackHPC](http://hackhpc.org/) 
 * **Texas Disaster Information System (TDIS)**
 * **PlanetTexas 2050**
   * [PTDataX Portal](https://ptdatax.tacc.utexas.edu/)
