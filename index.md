@@ -23,7 +23,8 @@
   * [Code@TACC:Cybersecurity](https://www.tacc.utexas.edu/education/stem-programs/code-at-tacc/cybersecurity)
 * **Hackathons**
   * [HackHPC](http://hackhpc.org/) 
-* **Texas Disaster Information System (TDIS)**
+* **Texas Disaster Information System**
+  * [TDIS](https://idrt.tamug.edu/tdis/)
 * **PlanetTexas 2050**
   * [PTDataX Portal](https://ptdatax.tacc.utexas.edu/)
   
