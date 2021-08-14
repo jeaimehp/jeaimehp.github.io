@@ -15,8 +15,10 @@
 ---
 ## Current Projects
 * **µPSTREAM Sensor Platform**
-  * Base Version
-  * RaspberryPi Version
+  * [Base Version (Particle Boron)](https://github.com/jeaimehp/upstream-particle)
+  * RaspberryPi Versions
+    * [Rain and Sound Detector/Logger](https://github.com/jeaimehp/upstream_rainsound_detector_rpi)
+    * [Accoustic Biosensor](https://github.com/jeaimehp/upstream-rpi)
   * [µSense](https://github.com/jeaimehp/microsense) (ESP32 LoRA Version)   
 * **STEM Programs**
   * [Code@TACC:Connected](https://www.tacc.utexas.edu/education/stem-programs/code-at-tacc/connected)
