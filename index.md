@@ -18,7 +18,9 @@
   * Base Version
   * RaspberryPi Version
   * [µSense](https://github.com/jeaimehp/microsense) (ESP32 LoRA Version)   
-* **Code@TACC: Connected**
+* **STEM Programs**
+  * [Code@TACC:Connected](https://www.tacc.utexas.edu/education/stem-programs/code-at-tacc/connected)
+  * [Code@TACC:Cybersecurity](https://www.tacc.utexas.edu/education/stem-programs/code-at-tacc/cybersecurity)
 * **Hackathons**
   * [HackHPC](http://hackhpc.org/) 
 * **Texas Disaster Information System (TDIS)**
