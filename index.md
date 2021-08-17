@@ -46,7 +46,7 @@
 ## Papers, Panels, Workshops, Presentations, and Hackathons
 * **PEARC21**[[Link]](https://pearc.acm.org/pearc21)
   * [Hackathon] HackHPC@PEARC21
-    * [Event Link](https://jeaimehp.github.io/HackHPC-Pearc21/)
+    * *[Event Link](https://jeaimehp.github.io/HackHPC-Pearc21/)*
     * [Conference Link](https://pearc.acm.org/pearc21/student-program/)
     * [Videos and Presentations](http://hackhpc.org/pasthacks/#content2)
   * [Panel] Panel on Student Competitions 
