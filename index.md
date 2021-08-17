@@ -44,7 +44,7 @@
 
 ---
 ## Papers, Panels, Workshops, Presentations, and Hackathons
-* **PEARC21**[[Link]](https://pearc.acm.org/pearc21)
+* **PEARC21** [[Link]](https://pearc.acm.org/pearc21)
   * [*Hackathon*] HackHPC@PEARC21
     * [Event Link](https://jeaimehp.github.io/HackHPC-Pearc21/)
     * [Conference Link](https://pearc.acm.org/pearc21/student-program/)
@@ -53,10 +53,10 @@
     * [Conference Link](https://pearc.acm.org/pearc21/student-program/panel-on-student-competitions/) 
   * [*Panel*] Diversity in the student pipeline and professional staff: challenges, success stories, and resources 
     * [Conference Link](https://pearc21.pathable.co/meetings/virtual/Q33iEDGxjHtWYDHif) | [Information Link](https://tinyurl.com/pearc21diversitypanel)
-* **ADMI21**[[Link]](https://www.admiusa.org/admi2021)
+* **ADMI21** [[Link]](https://www.admiusa.org/admi2021)
   * [*Workshop*] How to Host a Hackathon 
     * [Conference Link](https://www.admiusa.org/admi2021/program.php)
-* **SC20**[[Link]](https://sc20.supercomputing.org/)
+* **SC20** [[Link]](https://sc20.supercomputing.org/)
   * [*Hackathon*] HPC in the City: Atlanta
     * [Event Link](https://jeaimehp.github.io/HackHPC-HPCintheCity20/) 
     * [Conference Link](https://sc20.supercomputing.org/program/studentssc/hpc-city/)
