@@ -46,9 +46,9 @@
 ## Papers, Panels, Workshops, and Presentations
 * PEARC21
  * [Panel] Panel on Student Competitions 
-    [Conference Link](https://pearc.acm.org/pearc21/student-program/panel-on-student-competitions/) 
+  * [Conference Link](https://pearc.acm.org/pearc21/student-program/panel-on-student-competitions/) 
  * [Panel] Diversity in the student pipeline and professional staff: challenges, success stories, and resources 
-    [Conference Link](https://pearc21.pathable.co/meetings/virtual/Q33iEDGxjHtWYDHif) | [Information Link](https://tinyurl.com/pearc21diversitypanel)
+  * [Conference Link](https://pearc21.pathable.co/meetings/virtual/Q33iEDGxjHtWYDHif) | [Information Link](https://tinyurl.com/pearc21diversitypanel)
 * ADMI21
  * [Workshop] How to Host a Hackathon 
-    [Conference Link](https://www.admiusa.org/admi2021/program.php) 
+  * [Conference Link](https://www.admiusa.org/admi2021/program.php) 
