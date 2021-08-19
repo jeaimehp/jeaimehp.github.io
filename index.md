@@ -36,6 +36,7 @@
 * _LinkedIN_ - [https://www.linkedin.com/in/jeaimehp](https://www.linkedin.com/in/jeaimehp/)
 * _Twitter_ - [@jeaimehp](https://twitter.com/jeaimehp)
 * _YouTube_ - [Jeaime Powell](https://www.youtube.com/channel/UCDzJYzm3MsO5B_sWTQ295Kg/)
+* _Thingiverse_ - https://www.thingiverse.com/jeaimehp/designs
 
 ---
 ## Research Links
