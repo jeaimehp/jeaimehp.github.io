@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="images/JeaimePowell-logo-only.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
 # Je'aime H. Powell
