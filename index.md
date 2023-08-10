@@ -1,7 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-
-# Je'aime H. Powell
+# Portfolio
 [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu)
 
 ## Roles:
