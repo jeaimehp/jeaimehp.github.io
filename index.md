@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/png" href="images/JeaimePowell-logo-only.png">
+
+
 # Je'aime H. Powell
 [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu)
 
