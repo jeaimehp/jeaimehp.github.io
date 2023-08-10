@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 #logo: /images/jeaime-powell.png
 logo: /images/JeaimePowell-logo.png
 #title: "Je'aime Powell - Portfolio"
+title: ""
 favicon: favicon.ico
 #description: Minimal is a theme for GitHub Pages.
 #show_downloads: true
