@@ -1,7 +1,16 @@
 # Portfolio
-[jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu)
+ **Email:** [jeaimehp@gmail.com](mailto:jeaimehp@gmail.com) <br>
+ 
+
+## Professional Summary
+
+A seasoned IT professional with over 25 years of experience in High-Performance Computing (HPC), Cyberinfrastructure, and Workforce Development. Proven track record in leading large-scale systems administration, spearheading research initiatives, and mentoring cross-functional teams. Adept at designing and implementing cloud-based infrastructures, with a strong commitment to innovation and excellence. Seeking to leverage deep technical expertise and leadership experience in a senior managerial role.
 
 ## Roles:
+  * **Product Analyst and Outreach Coordinator** 
+    * [Omnibond Systems](https://omnibond.com)   
+  * **Technical Research Design Analyst** 
+    * [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) _(Data Management & Collections)_
   * **Technical Research Design Analyst** 
     * [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) _(Data Management & Collections)_
   * **Senior Systems Administrator** 
