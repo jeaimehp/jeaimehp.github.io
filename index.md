@@ -24,6 +24,8 @@ A seasoned IT professional with over 25 years of experience in High-Performance 
   
 ---
 ## Current Projects
+* **SGX3 Coding Institute 2025**
+  * [Coding Institute Main Site](https://hackhpc.github.io/sgx3codinginstitute25)
 * **µPSTREAM Sensor Platform**
   * [Base Version (Particle Boron)](https://github.com/jeaimehp/upstream-particle)
   * RaspberryPi Versions
