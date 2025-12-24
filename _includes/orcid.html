@@ -1,0 +1,65 @@
+<section class="orcid-block">
+  <h2>Research Outputs (ORCID)</h2>
+
+  {% assign groups = site.data.orcid.activities.group | default: empty %}
+  {% if groups == empty %}
+    <p>No public works found (or ORCID data hasn’t synced yet).</p>
+  {% else %}
+    <ul>
+      {% for g in groups %}
+        {% assign summary = g['work-summary'] | first %}
+        {% if summary %}
+          <li>
+            <strong>{{ summary.title.title.value | default: "Untitled work" }}</strong>
+            {% if summary['publication-date'] and summary['publication-date'].year %}
+              — {{ summary['publication-date'].year.value }}
+            {% endif %}
+
+            {% if summary['external-ids'] and summary['external-ids']['external-id'] %}
+              {% assign eid = summary['external-ids']['external-id'] | first %}
+              {% if eid['external-id-type'] == "doi" and eid['external-id-value'] %}
+                —
+                <a href="https://doi.org/{{ eid['external-id-value'] }}" target="_blank" rel="noopener">
+                  doi:{{ eid['external-id-value'] }}
+                </a>
+              {% endif %}
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <h2>Funding</h2>
+
+  {% assign funding_groups = site.data.orcid.fundings.group | default: empty %}
+  {% if funding_groups == empty %}
+    <p>No public funding items found (or ORCID data hasn’t synced yet).</p>
+  {% else %}
+    <ul>
+      {% for fg in funding_groups %}
+        {% assign fsum = fg['funding-summary'] | first %}
+        {% if fsum %}
+          <li>
+            <strong>{{ fsum.title.title.value | default: "Untitled award" }}</strong>
+            {% if fsum.organization and fsum.organization.name %}
+              — {{ fsum.organization.name }}
+            {% endif %}
+            {% if fsum['start-date'] and fsum['start-date'].year %}
+              ({{ fsum['start-date'].year.value }}
+              {% if fsum['end-date'] and fsum['end-date'].year %}
+                – {{ fsum['end-date'].year.value }}
+              {% endif %})
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <p class="orcid-link">
+    <a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" rel="noopener">
+      View full ORCID profile
+    </a>
+  </p>
+</section>
