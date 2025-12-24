@@ -1,0 +1,1585 @@
+{
+  "last-modified-date" : {
+    "value" : 1734646478479
+  },
+  "group" : [ {
+    "last-modified-date" : {
+      "value" : 1734646478479
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1016/j.ohx.2024.e00584",
+        "external-id-normalized" : {
+          "value" : "10.1016/j.ohx.2024.e00584",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.1016/j.ohx.2024.e00584"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 174146750,
+      "created-date" : {
+        "value" : 1734646478479
+      },
+      "last-modified-date" : {
+        "value" : 1734646478479
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "BioSense: An automated sensing node for organismal and environmental biology"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1016/j.ohx.2024.e00584",
+          "external-id-normalized" : {
+            "value" : "10.1016/j.ohx.2024.e00584",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.1016/j.ohx.2024.e00584"
+          },
+          "external-id-relationship" : "self"
+        }, {
+          "external-id-type" : "issn",
+          "external-id-value" : "2468-0672",
+          "external-id-normalized" : {
+            "value" : "2468-0672",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://portal.issn.org/resource/ISSN/2468-0672"
+          },
+          "external-id-relationship" : "part-of"
+        } ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.1016/j.ohx.2024.e00584"
+      },
+      "type" : "journal-article",
+      "publication-date" : {
+        "year" : {
+          "value" : "2024"
+        },
+        "month" : {
+          "value" : "12"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "HardwareX"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/174146750",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1734644466119
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1145/3697789.3697796",
+        "external-id-normalized" : {
+          "value" : "10.1145/3697789.3697796",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.1145/3697789.3697796"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 174144498,
+      "created-date" : {
+        "value" : 1734644466119
+      },
+      "last-modified-date" : {
+        "value" : 1734644466119
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "FacultyHack Events: Faculty-Focused Hackathons for High-Performance Computing Curriculum Development"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1145/3697789.3697796",
+          "external-id-normalized" : {
+            "value" : "10.1145/3697789.3697796",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.1145/3697789.3697796"
+          },
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.1145/3697789.3697796"
+      },
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2024"
+        },
+        "month" : {
+          "value" : "10"
+        },
+        "day" : {
+          "value" : "11"
+        }
+      },
+      "journal-title" : {
+        "value" : "Proceedings of the 8th International Conference on Game Jams, Hackathons and Game Creation Events"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/174144498",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1726501410323
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1145/3626203.3670586",
+        "external-id-normalized" : {
+          "value" : "10.1145/3626203.3670586",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.1145/3626203.3670586"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 167605112,
+      "created-date" : {
+        "value" : 1726501410323
+      },
+      "last-modified-date" : {
+        "value" : 1726501410323
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Building a Federated Catalog for CyberTraining Materials: The HPC-ED Pilot Project"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1145/3626203.3670586",
+          "external-id-normalized" : {
+            "value" : "10.1145/3626203.3670586",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.1145/3626203.3670586"
+          },
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.1145/3626203.3670586"
+      },
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2024"
+        },
+        "month" : {
+          "value" : "07"
+        },
+        "day" : {
+          "value" : "17"
+        }
+      },
+      "journal-title" : {
+        "value" : "Practice and Experience in Advanced Research Computing 2024: Human Powered Computing"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/167605112",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1726601864766
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "https://doi.org/10.22369/issn.2153-4136/15/1/8",
+        "external-id-normalized" : {
+          "value" : "10.22369/issn.2153-4136/15/1/8",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : null,
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 167690187,
+      "created-date" : {
+        "value" : 1726601864766
+      },
+      "last-modified-date" : {
+        "value" : 1726601864766
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Scaling HPC Education"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "https://doi.org/10.22369/issn.2153-4136/15/1/8",
+          "external-id-normalized" : {
+            "value" : "10.22369/issn.2153-4136/15/1/8",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : null,
+      "type" : "journal-article",
+      "publication-date" : {
+        "year" : {
+          "value" : "2024"
+        },
+        "month" : {
+          "value" : "03"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "The Journal of Computational Science Education"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/167690187",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1707496735078
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.22369/issn.2153-4136/14/2/4",
+        "external-id-normalized" : {
+          "value" : "10.22369/issn.2153-4136/14/2/4",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.22369/issn.2153-4136/14/2/4"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 152811685,
+      "created-date" : {
+        "value" : 1707496735078
+      },
+      "last-modified-date" : {
+        "value" : 1707496735078
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Assessing Shared Material Usage in the High Performance Computing (HPC) Education and Training Community"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.22369/issn.2153-4136/14/2/4",
+          "external-id-normalized" : {
+            "value" : "10.22369/issn.2153-4136/14/2/4",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.22369/issn.2153-4136/14/2/4"
+          },
+          "external-id-relationship" : "self"
+        }, {
+          "external-id-type" : "issn",
+          "external-id-value" : "2153-4136",
+          "external-id-normalized" : {
+            "value" : "2153-4136",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://portal.issn.org/resource/ISSN/2153-4136"
+          },
+          "external-id-relationship" : "part-of"
+        } ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.22369/issn.2153-4136/14/2/4"
+      },
+      "type" : "journal-article",
+      "publication-date" : {
+        "year" : {
+          "value" : "2023"
+        },
+        "month" : {
+          "value" : "11"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "The Journal of Computational Science Education"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/152811685",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 127400252,
+      "created-date" : {
+        "value" : 1674755461947
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "[Workshop] Pandemic! Control a Pandemic Disease before it Runs Rampant"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : {
+        "value" : "https://sc22.supercomputing.org/presentation/?id=misc102&sess=sess302"
+      },
+      "type" : "conference-abstract",
+      "publication-date" : {
+        "year" : {
+          "value" : "2022"
+        },
+        "month" : {
+          "value" : "11"
+        },
+        "day" : {
+          "value" : "13"
+        }
+      },
+      "journal-title" : {
+        "value" : "Supercomputing 22"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/127400252",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.5281/ZENODO.7089496",
+        "external-id-normalized" : {
+          "value" : "10.5281/zenodo.7089496",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.5281/zenodo.7089496"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 127399869,
+      "created-date" : {
+        "value" : 1674754852981
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "The HackHPC Model: Fostering Workforce Development in High-Performance Computing Through Hackathons"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.5281/ZENODO.7089496",
+          "external-id-normalized" : {
+            "value" : "10.5281/zenodo.7089496",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.5281/zenodo.7089496"
+          },
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : {
+        "value" : "https://zenodo.org/record/7089496"
+      },
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2022"
+        },
+        "month" : {
+          "value" : "09"
+        },
+        "day" : {
+          "value" : "17"
+        }
+      },
+      "journal-title" : {
+        "value" : "Gateways 2022 proceedings"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/127399869",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1145/3491418.3535137",
+        "external-id-normalized" : {
+          "value" : "10.1145/3491418.3535137",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.1145/3491418.3535137"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 115680443,
+      "created-date" : {
+        "value" : 1657554073012
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Methodology for Imagery Metadata Collection and Entry into a PostgreSQL Database using Stampede2"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1145/3491418.3535137",
+          "external-id-normalized" : {
+            "value" : "10.1145/3491418.3535137",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.1145/3491418.3535137"
+          },
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.1145/3491418.3535137"
+      },
+      "type" : "conference-poster",
+      "publication-date" : {
+        "year" : {
+          "value" : "2022"
+        },
+        "month" : {
+          "value" : "07"
+        },
+        "day" : {
+          "value" : "08"
+        }
+      },
+      "journal-title" : {
+        "value" : "Practice and Experience in Advanced Research Computing"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/115680443",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.22369/issn.2153-4136/12/2/3",
+        "external-id-normalized" : {
+          "value" : "10.22369/issn.2153-4136/12/2/3",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://doi.org/10.22369/issn.2153-4136/12/2/3"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 117435700,
+      "created-date" : {
+        "value" : 1660870551000
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Transitioning Education and Training to a Virtual World, Lessons Learned"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.22369/issn.2153-4136/12/2/3",
+          "external-id-normalized" : {
+            "value" : "10.22369/issn.2153-4136/12/2/3",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://doi.org/10.22369/issn.2153-4136/12/2/3"
+          },
+          "external-id-relationship" : "self"
+        }, {
+          "external-id-type" : "issn",
+          "external-id-value" : "2153-4136",
+          "external-id-normalized" : {
+            "value" : "2153-4136",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://portal.issn.org/resource/ISSN/2153-4136"
+          },
+          "external-id-relationship" : "part-of"
+        } ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.22369/issn.2153-4136/12/2/3"
+      },
+      "type" : "journal-article",
+      "publication-date" : {
+        "year" : {
+          "value" : "2021"
+        },
+        "month" : {
+          "value" : "02"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "The Journal of Computational Science Education"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/117435700",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1145/3472688.3472700",
+        "external-id-normalized" : {
+          "value" : "10.1145/3472688.3472700",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : null,
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 108670236,
+      "created-date" : {
+        "value" : 1645565869700
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Organizing Online Hackathons for Newcomers to a Scientific Community – Lessons Learned from Two Events"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1145/3472688.3472700",
+          "external-id-normalized" : {
+            "value" : "10.1145/3472688.3472700",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "self"
+        }, {
+          "external-id-type" : "isbn",
+          "external-id-value" : "9781450384179",
+          "external-id-normalized" : {
+            "value" : "9781450384179",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "part-of"
+        } ]
+      },
+      "url" : {
+        "value" : "https://doi.org/10.1145/3472688.3472700"
+      },
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2021"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "Sixth Annual International Conference on Game Jams, Hackathons, and Game Creation Events"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/108670236",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1109/eScience51609.2021.00054",
+        "external-id-normalized" : {
+          "value" : "10.1109/escience51609.2021.00054",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : null,
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 127399050,
+      "created-date" : {
+        "value" : 1674754052975
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Towards Democratizing Modeling at Scale"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1109/eScience51609.2021.00054",
+          "external-id-normalized" : {
+            "value" : "10.1109/escience51609.2021.00054",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : null,
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2021"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "2021 IEEE 17th International Conference on eScience (eScience)"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/127399050",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1016/j.ohx.2019.e00079",
+        "external-id-normalized" : {
+          "value" : "10.1016/j.ohx.2019.e00079",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : null,
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82463895,
+      "created-date" : {
+        "value" : 1603487409940
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-3054-1567",
+          "path" : "0000-0002-3054-1567",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Crossref Metadata Search"
+        },
+        "assertion-origin-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : {
+          "value" : "Jeaime Powell"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "LEAF: Logger for ecological and atmospheric factors"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1016/j.ohx.2019.e00079",
+          "external-id-normalized" : {
+            "value" : "10.1016/j.ohx.2019.e00079",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "self"
+        }, {
+          "external-id-type" : "issn",
+          "external-id-value" : "2468-0672",
+          "external-id-normalized" : {
+            "value" : "2468-0672",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "part-of"
+        } ]
+      },
+      "url" : null,
+      "type" : "journal-article",
+      "publication-date" : {
+        "year" : {
+          "value" : "2019"
+        },
+        "month" : {
+          "value" : "10"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "HardwareX"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82463895",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1726601667813
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 167690127,
+      "created-date" : {
+        "value" : 1726601667813
+      },
+      "last-modified-date" : {
+        "value" : 1726601667813
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : {
+        "value" : "https://gateways2019.sched.com/event/RaJ5/streamed-data-via-cloud-hosted-real-time-data-services-for-the-geosciences-as-an-ingestion-interface-into-the-planet-texas-science-gateway-and-integrated-modeling-platform"
+      },
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2019"
+        },
+        "month" : {
+          "value" : "09"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : " Science Gateways 2019"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/167690127",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1726602357500
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 167690443,
+      "created-date" : {
+        "value" : 1726602357500
+      },
+      "last-modified-date" : {
+        "value" : 1726602357500
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "The Conversion of a Multipoint Data Logging System into a Mesh-Based Observation Network: Implementation of a Mesh-Based Observation Network"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : {
+        "value" : "http://dx.doi.org/10.13140/RG.2.2.10419.40485"
+      },
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2019"
+        },
+        "month" : {
+          "value" : "03"
+        },
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "MOXXI 2019 International Conference \"Innovation in Hydrometry: Overcoming Barriers to Operationalization\""
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/167690443",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82514024,
+      "created-date" : {
+        "value" : 1603664723696
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2019"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "Conference: Science Gateways 2019At: San Diego, CA"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82514024",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82514027,
+      "created-date" : {
+        "value" : 1603664724055
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Charles creek flood zone modeling: A correlation study of environmental conditions versus water level in the Pasquotank watershed"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2012"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "2012 IEEE International Geoscience and Remote Sensing Symposium"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82514027",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 108665823,
+      "created-date" : {
+        "value" : 1645559413221
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Development of an algorithm to predict coastal buoy temperature from Advanced Very High Resolution Radiometer (AVHRR)"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2012"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "2012 IEEE International Geoscience and Remote Sensing Symposium"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/108665823",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82514026,
+      "created-date" : {
+        "value" : 1603664724031
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Hands-on GPS and remote sensing training for high school learners during IGARSS 2009 in Cape Town, South Africa"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "conference-paper",
+      "publication-date" : {
+        "year" : {
+          "value" : "2010"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "2010 IEEE International Geoscience and Remote Sensing Symposium"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82514026",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1109/igarss.2009.5418148",
+        "external-id-normalized" : {
+          "value" : "10.1109/igarss.2009.5418148",
+          "transient" : true
+        },
+        "external-id-normalized-error" : null,
+        "external-id-url" : null,
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82463907,
+      "created-date" : {
+        "value" : 1603487431605
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-3054-1567",
+          "path" : "0000-0002-3054-1567",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Crossref Metadata Search"
+        },
+        "assertion-origin-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : {
+          "value" : "Jeaime Powell"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Establishing field and base camp servers for remote sensing of ice sheets in ilulissat, Greenland"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1109/igarss.2009.5418148",
+          "external-id-normalized" : {
+            "value" : "10.1109/igarss.2009.5418148",
+            "transient" : true
+          },
+          "external-id-normalized-error" : null,
+          "external-id-url" : null,
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : null,
+      "type" : "other",
+      "publication-date" : {
+        "year" : {
+          "value" : "2009"
+        },
+        "month" : null,
+        "day" : null
+      },
+      "journal-title" : {
+        "value" : "2009 IEEE International Geoscience and Remote Sensing Symposium"
+      },
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82463907",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1726601730948
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82514019,
+      "created-date" : {
+        "value" : 1603664723577
+      },
+      "last-modified-date" : {
+        "value" : 1726601730948
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Integration With A Web Application To Create Navigational Instructions For Locations On The Campus Of Elizabeth City State University"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "journal-article",
+      "publication-date" : null,
+      "journal-title" : null,
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82514019",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 108665822,
+      "created-date" : {
+        "value" : 1645559413219
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Spectroscopic Image Signature Classification of Land Cover Types using Multi-Spectral Data within a Neural Network"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "journal-article",
+      "publication-date" : null,
+      "journal-title" : null,
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/108665822",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1676350328334
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 82514023,
+      "created-date" : {
+        "value" : 1603664723671
+      },
+      "last-modified-date" : {
+        "value" : 1676350328334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "TeraScan Curriculum Development and Integration of SeaSpace Technology into the Classroom"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "url" : null,
+      "type" : "journal-article",
+      "publication-date" : null,
+      "journal-title" : null,
+      "visibility" : "public",
+      "path" : "/0000-0003-1377-5422/work/82514023",
+      "display-index" : "1"
+    } ]
+  } ],
+  "path" : "/0000-0003-1377-5422/works"
+}

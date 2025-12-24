@@ -235,6 +235,13 @@ keybase-username: jeaimehp
 keybase-in-social: True
 keybase-in-footer: True
 
+#################
+#  OrcID info   #
+#################
+
+orcid_id: "0000-0003-1377-5422"
+
+
 ################################################################################
 
 # NB! Tread carefully if you want to change the variables below this point!
@@ -245,7 +252,7 @@ pages_list:
   About: "about"
   #Blog: "latest-post"
   Documents: "latest-post"
-  Media: "media"
+  Articles: "media"
   Timeline: "timeline"
   Contact: "contact"
 

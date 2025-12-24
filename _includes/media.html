@@ -1,7 +1,123 @@
 <section id="{{ page.section-type }}" class="container content-section text-center">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-         Media and Articles Includes
+        <h2>Media and Articles</h2>
+
+        {%- comment -%}
+Timeline for _data/jpowell_articles.yml
+
+- Default: most recent → oldest
+- Missing year goes last
+- Thumbnail images
+Usage:
+  {% include jpowell-articles-timeline.html %}
+  {% include jpowell-articles-timeline.html order="asc" %}
+{%- endcomment -%}
+
+{%- assign items = site.data.jpowell_articles -%}
+{%- assign order = include.order | default: "desc" -%}
+
+{%- assign groups = items | group_by_exp: "item", "item.year | default: '9999'" -%}
+{%- assign groups = groups | sort: "name" -%}
+
+{%- if order == "desc" -%}
+  {%- assign groups = groups | reverse -%}
+{%- endif -%}
+
+<div class="jp-timeline jp-timeline--compact">
+  {%- for g in groups -%}
+    {%- assign year_label = g.name -%}
+    {%- if year_label == "9999" -%}
+      {%- assign year_label = "—" -%}
+    {%- endif -%}
+
+    {%- for item in g.items -%}
+      <article class="jp-timeline__item">
+        <div class="jp-timeline__marker" aria-hidden="true"></div>
+
+        <div class="jp-timeline__content">
+          <header class="jp-timeline__header">
+            <div class="jp-timeline__year">{{ year_label }}</div>
+
+            <h3 class="jp-timeline__title">
+              {%- if item.externalurl -%}
+                <a href="{{ item.externalurl | escape }}" target="_blank" rel="noopener noreferrer">
+                  {{ item.name }}
+                </a>
+              {%- else -%}
+                {{ item.name }}
+              {%- endif -%}
+            </h3>
+
+            <p class="jp-timeline__meta">
+              {%- if item.organizationurl -%}
+                <a href="{{ item.organizationurl | escape }}" target="_blank" rel="noopener noreferrer">
+                  {{ item.organization }}
+                </a>
+              {%- else -%}
+                {{ item.organization }}
+              {%- endif -%}
+
+              {%- if item.type and item.type.size > 0 -%}
+                <span class="jp-timeline__types">
+                  ·
+                  {%- for t in item.type -%}
+                    <span class="jp-pill">{{ t }}</span>
+                  {%- endfor -%}
+                </span>
+              {%- endif -%}
+            </p>
+          </header>
+
+          {%- if item.img -%}
+            <div class="jp-timeline__media">
+              {%- if item.externalurl -%}
+                <a href="{{ item.externalurl | escape }}" target="_blank" rel="noopener noreferrer">
+                  <img
+                    class="jp-timeline__img jp-timeline__img--thumb"
+                    src="{{ item.img | relative_url }}"
+                    alt="{{ item.name | escape }}"
+                    loading="lazy">
+                </a>
+              {%- else -%}
+                <img
+                  class="jp-timeline__img jp-timeline__img--thumb"
+                  src="{{ item.img | relative_url }}"
+                  alt="{{ item.name | escape }}"
+                  loading="lazy">
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+
+          {%- if item.description -%}
+            <p class="jp-timeline__desc">{{ item.description }}</p>
+          {%- endif -%}
+
+          <div class="jp-timeline__actions">
+            {%- if item.externalurl -%}
+              <a class="jp-btn" href="{{ item.externalurl | escape }}" target="_blank" rel="noopener noreferrer">
+                {{ item.pdfdescription[0] | default: "Open Link" }}
+              </a>
+            {%- endif -%}
+
+            {%- if item.pdf and item.pdf.size > 0 -%}
+              {%- for p in item.pdf -%}
+                <a class="jp-btn jp-btn--secondary"
+                   href="{{ p | relative_url }}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  {{ item.pdfdescription[forloop.index0] | default: "View PDF" }}
+                </a>
+              {%- endfor -%}
+            {%- endif -%}
+          </div>
+        </div>
+      </article>
+    {%- endfor -%}
+  {%- endfor -%}
+</div>
+
+
 
       </div>
     </div>

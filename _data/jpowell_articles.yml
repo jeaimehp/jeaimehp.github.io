@@ -1,119 +1,191 @@
-  - name: "OPENING SHUTTERS"
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/ 
-    year: 1994
-    img: assets/news_article/1994-openingshutters-preperationforthegame.jpeg
-    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1994/vp941008/10080033.htm
-    pdf: [assets/news_article/1994-openingshutters.pdf]
-    pdfdescription: ["Full Article"]
-    description: >
-      Open Shutters: Photographic Impressions by African Americans in Hampton Roads Grant: https://discoveryvirginia.org/open-shutters-photographic-impressions-african-americans-hampton-roads 
-  - name: "COMPUTER WINDOW TO THE WORLD PORTSMOUTH STUDENTS ARE MAKING E-MAIL, CHAT ROOMS AND AN ONLINE BULLETIN BOARD THAT ALLOWS THEM TO CHECK ON THEIR HOMEWORK ASSIGNMENTS PART OF THEIR DAILY ROUTINES."
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1996
-    img: assets/news_article/1996-JPowell-currents-vipilot.jpeg
-    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960714/07130075.htm
-    pdf: [assets/news_article/1996-vapilot-computerwindowtotheworld.pdf]
-    pdfdescription: ["Full Article"]
-  - name: "THE CHEMISTRY WAS RIGHT LOVE OF SCIENCE, CAN-DO ATTITUDE PUSHES GIRL TO EXCEL IN A SUBJECT DOMINATED BY THE BOYS."
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1996
-    #img: 
-    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960919/09190355.htm
-    pdf: [assets/news_article/1996-nsucmr.pdf]
-    pdfdescription: ["Full Article"]
-    description: "Mentioned in the article as a fellow student selected for the Norfolk State Center for Materials Research summer research program."
-  - name: "CONFRONTING THE GHOSTS OF GROWTH: PAST, PRESENT AND FUTURE VOTERS GRAPPLE WITH PRIORITIES AND EXPECTATIONS AS THEY PREPARE TO CHOOSE CITY AND SCHOOL LEADERS."
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1996
-    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960414/04140050.htm
-    pdf: [assets/news_article/1996-vapilot-schoolboard.pdf]
-    pdfdescription: ["Full Article"]
-  - name: "TEENS AIMING TO BRING PEERS POSITIVE MESSAGES"
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1997
-    #img: 1997-peerspositivemessages.pdf
-    #externalurl:
-    pdf: [assets/news_article/1997-peerspositivemessages.pdf]
-    pdfdescription: ["Full Article"]
-  - name: "Je'aime Powell, an I.C. Norcom High School student, recently won a first place at the Tidewater Science Fair"
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1997
-    #img: 1997-sf-jeffersonlabs.pdf
-    #externalurl:
-    pdf: [assets/news_article/1997-sf-jeffersonlabs.pdf]
-    pdfdescription: ["Full Article"]
-  - name: "STUDENTS TAKING INFORMATION ON POSITIVE CHOICES TO THE MEDIA"
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1997
-    #img: 1997-vapilot-positivechoices.pdf
-    #externalurl:
-    pdf: [assets/news_article/1997-vapilot-positivechoices.pdf]
-    pdfdescription: ["Full Article"]
-  - name: "YOUTHS TO PROMOTE HAPPY LIFESTYLES AND RESPONSIBLE BEHAVIOR"
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1997
-    img: assets/news_article/1997-vapilot-responsiblecitizens.pdf
-    #externalurl:
-    pdf: [assets/news_article/1997-vapilot-responsiblecitizens.pdf]
-    pdfdescription: ["Full Article"]
-  - name: "EXPERIMENT ALLOWS CALCULATORS TO WORK AS COMPUTERS WOULD"
-    type: [article, newspaper]
-    organization: The Virginian-Pilot
-    organizationurl: https://www.pilotonline.com/
-    year: 1997
-    img: assets/news_article/1997-vapilot-successstories.png
-    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1997/vp970523/05220465.htm
-    pdf: [assets/news_article/1997-vapilot-tinet.pdf]
-    pdfdescription: ["Full Article"]
-  - name: Photography Credit
-    type: [article, newspaper]
-    organization: "The Compass (Elizabeth City State University Student Newspaper)"
-    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
-    year: 1998
-    img: assets/news_article/1998-ecsucompass-photocredit.png
-    #externalurl:
-    #pdf: [1998-ecsucompass-photocredit.png]
-    pdfdescription: ["Full Article"]
-  - name: Photography Credit
-    type: [article, newspaper]
-    organization: "The Compass (Elizabeth City State University Student Newspaper)"
-    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
-    year: 1998
-    img: assets/news_article/1998-ecsucompass-photocredit2.png
-    #externalurl:
-    #pdf: [1998-ecsucompass-photocredit2.png]
-    pdfdescription: ["Full Article"]
-  - name: Photography Credit
-    type: [article, newspaper]
-    organization: "The Compass (Elizabeth City State University Student Newspaper)"
-    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
-    year: 1998ecsu
-    img: assets/news_article/1998ecsu-compass-photographer.png
-    #externalurl:
-    #pdf: [1998ecsu-compass-photographer.png]
-    pdfdescription: ["Full Article"]
-  - name: "University Players Perform Award-winning Musical (The Me Nobody Knows)"
-    type: [article, newspaper]
-    organization: "The Compass (Elizabeth City State University Student Newspaper)"
-    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
-    year: 1999
-    img: assets/news_article/1999-ecsuuniversityplayers-themenobodyknows.png
-    #externalurl:
-    pdf: [assets/news_article/1999-ecsuuniversityplayers-themenobodyknows.pdf]
-    pdfdescription: ["Full Article"]
+- name: "OPENING SHUTTERS"
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/ 
+  year: 1994
+  img: assets/news_article/1994-openingshutters-preperationforthegame.jpeg
+  externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1994/vp941008/10080033.htm
+  pdf: [assets/news_article/1994-openingshutters.pdf]
+  pdfdescription: ["Full Article"]
+  description: >
+    Open Shutters: Photographic Impressions by African Americans in Hampton Roads Grant: https://discoveryvirginia.org/open-shutters-photographic-impressions-african-americans-hampton-roads 
+- name: "COMPUTER WINDOW TO THE WORLD PORTSMOUTH STUDENTS ARE MAKING E-MAIL, CHAT ROOMS AND AN ONLINE BULLETIN BOARD THAT ALLOWS THEM TO CHECK ON THEIR HOMEWORK ASSIGNMENTS PART OF THEIR DAILY ROUTINES."
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1996
+  img: assets/news_article/1996-JPowell-currents-vipilot.jpeg
+  externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960714/07130075.htm
+  pdf: [assets/news_article/1996-vapilot-computerwindowtotheworld.pdf]
+  pdfdescription: ["Full Article"]
+- name: "THE CHEMISTRY WAS RIGHT LOVE OF SCIENCE, CAN-DO ATTITUDE PUSHES GIRL TO EXCEL IN A SUBJECT DOMINATED BY THE BOYS."
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1996
+  #img: 
+  externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960919/09190355.htm
+  pdf: [assets/news_article/1996-nsucmr.pdf]
+  pdfdescription: ["Full Article"]
+  description: "Mentioned in the article as a fellow student selected for the Norfolk State Center for Materials Research summer research program."
+- name: "CONFRONTING THE GHOSTS OF GROWTH: PAST, PRESENT AND FUTURE VOTERS GRAPPLE WITH PRIORITIES AND EXPECTATIONS AS THEY PREPARE TO CHOOSE CITY AND SCHOOL LEADERS."
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1996
+  externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960414/04140050.htm
+  pdf: [assets/news_article/1996-vapilot-schoolboard.pdf]
+  pdfdescription: ["Full Article"]
+- name: "TEENS AIMING TO BRING PEERS POSITIVE MESSAGES"
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1997
+  #img: 1997-peerspositivemessages.pdf
+  #externalurl:
+  pdf: [assets/news_article/1997-peerspositivemessages.pdf]
+  pdfdescription: ["Full Article"]
+- name: "Je'aime Powell, an I.C. Norcom High School student, recently won a first place at the Tidewater Science Fair"
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1997
+  #img: 1997-sf-jeffersonlabs.pdf
+  #externalurl:
+  pdf: [assets/news_article/1997-sf-jeffersonlabs.pdf]
+  pdfdescription: ["Full Article"]
+- name: "STUDENTS TAKING INFORMATION ON POSITIVE CHOICES TO THE MEDIA"
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1997
+  #img: 1997-vapilot-positivechoices.pdf
+  #externalurl:
+  pdf: [assets/news_article/1997-vapilot-positivechoices.pdf]
+  pdfdescription: ["Full Article"]
+- name: "YOUTHS TO PROMOTE HAPPY LIFESTYLES AND RESPONSIBLE BEHAVIOR"
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1997
+  #img: assets/news_article/1997-vapilot-responsiblecitizens.pdf
+  #externalurl:
+  pdf: [assets/news_article/1997-vapilot-responsiblecitizens.pdf]
+  pdfdescription: ["Full Article"]
+- name: "EXPERIMENT ALLOWS CALCULATORS TO WORK AS COMPUTERS WOULD"
+  type: [article, newspaper]
+  organization: The Virginian-Pilot
+  organizationurl: https://www.pilotonline.com/
+  year: 1997
+  img: assets/news_article/1997-vapilot-successstories.png
+  externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1997/vp970523/05220465.htm
+  pdf: [assets/news_article/1997-vapilot-tinet.pdf]
+  pdfdescription: ["Full Article"]
+- name: Photography Credit
+  type: [article, newspaper]
+  organization: "The Compass (Elizabeth City State University Student Newspaper)"
+  organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+  year: 1998
+  #img: assets/news_article/1998-ecsucompass-photocredit.png
+  #externalurl:
+  #pdf: [1998-ecsucompass-photocredit.png]
+  pdfdescription: ["Full Article"]
+- name: Photography Credit
+  type: [article, newspaper]
+  organization: "The Compass (Elizabeth City State University Student Newspaper)"
+  organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+  year: 1998
+  #img: assets/news_article/1998-ecsucompass-photocredit2.png
+  #externalurl:
+  #pdf: [1998-ecsucompass-photocredit2.png]
+  pdfdescription: ["Full Article"]
+- name: Photography Credit
+  type: [article, newspaper]
+  organization: "The Compass (Elizabeth City State University Student Newspaper)"
+  organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+  year: 1998
+  #img: assets/news_article/1998ecsu-compass-photographer.png
+  #externalurl:
+  #pdf: [1998ecsu-compass-photographer.png]
+  pdfdescription: ["Full Article"]
+- name: "University Players Perform Award-winning Musical (The Me Nobody Knows)"
+  type: [article, newspaper]
+  organization: "The Compass (Elizabeth City State University Student Newspaper)"
+  organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+  year: 1999
+  img: assets/news_article/1999-ecsuuniversityplayers-themenobodyknows.png
+  #externalurl:
+  pdf: [assets/news_article/1999-ecsuuniversityplayers-themenobodyknows.pdf]
+  pdfdescription: ["Full Article"]
+
+- name: "Je’aime Powell’s Path to Success Began at ECSU"
+  type: [article, university]
+  organization: "Elizabeth City State University"
+  organizationurl: https://newsroom.ecsu.edu/
+  year: 2018
+  img: assets/news_article/ecsu-path-to-success.jpg
+  externalurl: "https://newsroom.ecsu.edu/jeaime-powells-path-to-success-began-at-ecsu/"
+  pdfdescription: ["Open Link"]
+  description: "This profile traces Je’aime Powell’s academic and professional journey beginning at ECSU, highlighting the role of mentorship, opportunity, and experiential learning in shaping a career in technology and research computing."
+
+- name: "CloudyCluster Helps Students Build Bright Futures in HPC"
+  type: [article, industry]
+  organization: "HPCwire"
+  organizationurl: https://www.hpcwire.com/
+  year: 2019
+  #img: assets/news_article/hpcwire-cloudycluster-bright-futures.png
+  externalurl: "https://www.hpcwire.com/2019/12/20/cloudycluster-helps-students-build-bright-futures-in-hpc/"
+  pdfdescription: ["Open Link"]
+  description: "This article highlights how CloudyCluster was used as a training platform to introduce students to high-performance computing, lowering barriers to entry and helping develop practical HPC skills aligned with real research and workforce needs."
+
+- name: "HPC in the (Virtual) City • SC20"
+  type: [article, conference]
+  organization: "Supercomputing Conference 2020"
+  organizationurl: https://sc20.supercomputing.org/
+  year: 2020
+  img: assets/news_article/sc20-hpc-in-the-virtual-city.jpg
+  externalurl: "https://sc20.supercomputing.org/2020/09/04/hpc-in-the-virtual-city/"
+  pdfdescription: ["Open Link"]
+  description: "This piece discusses the transition of HPC education and community engagement into virtual environments during SC20, showcasing innovative approaches to teaching, collaboration, and student participation when in-person events were not possible."
+
+- name: "Panel on Student Competitions"
+  type: [article, conference]
+  organization: "PEARC21"
+  organizationurl: https://pearc.acm.org/
+  year: 2021
+  #img: assets/news_article/pearc21-student-competitions-panel.png
+  externalurl: "https://pearc.acm.org/pearc21/student-program/panel-on-student-competitions/"
+  pdfdescription: ["Open Link"]
+  description: "Je'aime Powell was a panelist in a discussion about student competitions and their role in fostering innovation and engagement in HPC education."
+
+- name: "Residentes del Valle relatan experiencias vividas durante recientes inundaciones"
+  type: [article, news]
+  organization: "Telemundo McAllen (40)"
+  organizationurl: https://www.telemundo40.com/
+  year: 2022
+  #img: assets/news_article/telemundo40-inundaciones-2219767.png
+  externalurl: "https://www.telemundo40.com/noticias/residente...n-experiencias-vividas-durante-recientes-inundaciones/2219767/"
+  pdfdescription: ["Open Link"]
+  description: "This news video features residents of the Rio Grande Valley sharing firsthand accounts of severe flooding, emphasizing community impact, emergency response challenges, and the human experience behind extreme weather events."
+
+- name: "TACC Bytes - Code-a-thons, Hack-a-thons, and Learning to Code w/ Charlie and Je'aime"
+  type: [video, interview]
+  organization: "Texas Advanced Computing Center (TACC)"
+  organizationurl: https://www.youtube.com/
+  year: 2022
+  img: assets/news_article/youtube-tacc-bytes-codeathons.jpg
+  externalurl: "https://www.youtube.com/watch?v=q6rbPJXYZOk"
+  pdfdescription: ["Watch Video"]
+  description: "This interview-style video discusses hackathons and coding events as tools for teaching programming and computational thinking, highlighting how community-driven learning environments can make technical skills more accessible and engaging."
+
+- name: "TACC Camps Teach STEM and Life Skills"
+  type: [article, university]
+  organization: "Texas Advanced Computing Center (TACC)"
+  organizationurl: http://tacc.utexas.edu/
+  year: 2023
+  #img: assets/news_article/tacc-camps-stem-skills.jpg
+  externalurl: "http://tacc.utexas.edu/news/latest-news/2023/09/28/tacc-camps-stem-skills/"
+  pdfdescription: ["Open Link"]
+  description: "This article highlights TACC’s educational camps and outreach programs, showing how hands-on computing experiences help students build both technical STEM skills and broader life skills such as teamwork, problem-solving, and resilience."
+
+

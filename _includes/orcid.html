@@ -1,7 +1,34 @@
 <section class="orcid-block">
-  <h2>Research Outputs (ORCID)</h2>
+ <h2>Funding</h2>
 
-  {% assign groups = site.data.orcid.activities.group | default: empty %}
+  {% assign funding_groups = site.data.orcid.fundings.group | default: empty %}
+  {% if funding_groups == empty %}
+    <p>No public funding items found (or ORCID data hasn’t synced yet).</p>
+  {% else %}
+    <ul>
+      {% for fg in funding_groups %}
+        {% assign fsum = fg['funding-summary'] | first %}
+        {% if fsum %}
+          <li>
+            <strong>{{ fsum.title.title.value | default: "Untitled award" }}</strong>
+            {% if fsum.organization and fsum.organization.name %}
+              — {{ fsum.organization.name }}
+            {% endif %}
+            {% if fsum['start-date'] and fsum['start-date'].year %}
+              ({{ fsum['start-date'].year.value }}
+              {% if fsum['end-date'] and fsum['end-date'].year %}
+                – {{ fsum['end-date'].year.value }}
+              {% endif %})
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+    <h2>Research Outputs (ORCID)</h2>
+  
+  {% assign groups = site.data.orcid.works.group | default: empty %}
   {% if groups == empty %}
     <p>No public works found (or ORCID data hasn’t synced yet).</p>
   {% else %}
@@ -30,32 +57,7 @@
     </ul>
   {% endif %}
 
-  <h2>Funding</h2>
-
-  {% assign funding_groups = site.data.orcid.fundings.group | default: empty %}
-  {% if funding_groups == empty %}
-    <p>No public funding items found (or ORCID data hasn’t synced yet).</p>
-  {% else %}
-    <ul>
-      {% for fg in funding_groups %}
-        {% assign fsum = fg['funding-summary'] | first %}
-        {% if fsum %}
-          <li>
-            <strong>{{ fsum.title.title.value | default: "Untitled award" }}</strong>
-            {% if fsum.organization and fsum.organization.name %}
-              — {{ fsum.organization.name }}
-            {% endif %}
-            {% if fsum['start-date'] and fsum['start-date'].year %}
-              ({{ fsum['start-date'].year.value }}
-              {% if fsum['end-date'] and fsum['end-date'].year %}
-                – {{ fsum['end-date'].year.value }}
-              {% endif %})
-            {% endif %}
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endif %}
+ 
 
   <p class="orcid-link">
     <a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" rel="noopener">

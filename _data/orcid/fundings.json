@@ -1,0 +1,323 @@
+{
+  "last-modified-date" : {
+    "value" : 1694206321897
+  },
+  "group" : [ {
+    "last-modified-date" : {
+      "value" : 1694203097334
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "grant_number",
+        "external-id-value" : "2320977",
+        "external-id-normalized" : null,
+        "external-id-normalized-error" : null,
+        "external-id-url" : {
+          "value" : "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320977"
+        },
+        "external-id-relationship" : "self"
+      } ]
+    },
+    "funding-summary" : [ {
+      "created-date" : {
+        "value" : 1694203097334
+      },
+      "last-modified-date" : {
+        "value" : 1694203097334
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Pilot: HPC ED: Building a Federated Repository and Increasing Access through Cybertraining"
+        },
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "grant_number",
+          "external-id-value" : "2320977",
+          "external-id-normalized" : null,
+          "external-id-normalized-error" : null,
+          "external-id-url" : {
+            "value" : "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320977"
+          },
+          "external-id-relationship" : "self"
+        } ]
+      },
+      "url" : {
+        "value" : "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2320977"
+      },
+      "type" : "award",
+      "start-date" : {
+        "year" : {
+          "value" : "2023"
+        },
+        "month" : {
+          "value" : "10"
+        },
+        "day" : null
+      },
+      "end-date" : {
+        "year" : {
+          "value" : "2024"
+        },
+        "month" : {
+          "value" : "09"
+        },
+        "day" : null
+      },
+      "organization" : {
+        "name" : "National Science Foundation",
+        "address" : {
+          "city" : "Alexandria",
+          "region" : "VA",
+          "country" : "US"
+        },
+        "disambiguated-organization" : {
+          "disambiguated-organization-identifier" : "https://ror.org/021nxhr62",
+          "disambiguation-source" : "ROR"
+        }
+      },
+      "visibility" : "public",
+      "put-code" : 1637926,
+      "path" : "/0000-0003-1377-5422/funding/1637926",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1694203662469
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "funding-summary" : [ {
+      "created-date" : {
+        "value" : 1694203662469
+      },
+      "last-modified-date" : {
+        "value" : 1694203662469
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "µP-STREAM (Micro-controller Platform Sending Telemetry Real-Time for Earth’s Adaptive Models)"
+        },
+        "translated-title" : null
+      },
+      "external-ids" : null,
+      "url" : {
+        "value" : "https://bridgingbarriers.utexas.edu/projects/mp-stream"
+      },
+      "type" : "award",
+      "start-date" : {
+        "year" : {
+          "value" : "2019"
+        },
+        "month" : {
+          "value" : "12"
+        },
+        "day" : null
+      },
+      "end-date" : {
+        "year" : {
+          "value" : "2021"
+        },
+        "month" : {
+          "value" : "05"
+        },
+        "day" : null
+      },
+      "organization" : {
+        "name" : "The University of Texas at Austin",
+        "address" : {
+          "city" : "Austin",
+          "region" : "TX",
+          "country" : "US"
+        },
+        "disambiguated-organization" : {
+          "disambiguated-organization-identifier" : "https://ror.org/00hj54h04",
+          "disambiguation-source" : "ROR"
+        }
+      },
+      "visibility" : "public",
+      "put-code" : 1637928,
+      "path" : "/0000-0003-1377-5422/funding/1637928",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1694204247747
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "funding-summary" : [ {
+      "created-date" : {
+        "value" : 1694204247747
+      },
+      "last-modified-date" : {
+        "value" : 1694204247747
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "Cloudify Gateways: Federated Science Gateway for On-Demand Research Analysis and Collaborative Knowledge (ODSACK) "
+        },
+        "translated-title" : null
+      },
+      "external-ids" : null,
+      "url" : {
+        "value" : "http://blog.gcp.cloudycluster.com/sgci-cloudify-gateways-awardees/"
+      },
+      "type" : "award",
+      "start-date" : {
+        "year" : {
+          "value" : "2019"
+        },
+        "month" : {
+          "value" : "10"
+        },
+        "day" : null
+      },
+      "end-date" : {
+        "year" : {
+          "value" : "2020"
+        },
+        "month" : {
+          "value" : "10"
+        },
+        "day" : null
+      },
+      "organization" : {
+        "name" : "Google (United States)",
+        "address" : {
+          "city" : "Mountain View",
+          "region" : "California",
+          "country" : "US"
+        },
+        "disambiguated-organization" : {
+          "disambiguated-organization-identifier" : "https://ror.org/00njsd438",
+          "disambiguation-source" : "ROR"
+        }
+      },
+      "visibility" : "public",
+      "put-code" : 1637930,
+      "path" : "/0000-0003-1377-5422/funding/1637930",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1694206321897
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "funding-summary" : [ {
+      "created-date" : {
+        "value" : 1694206321897
+      },
+      "last-modified-date" : {
+        "value" : 1694206321897
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-1377-5422",
+          "path" : "0000-0003-1377-5422",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Jeaime Powell"
+        },
+        "assertion-origin-orcid" : null,
+        "assertion-origin-client-id" : null,
+        "assertion-origin-name" : null
+      },
+      "title" : {
+        "title" : {
+          "value" : "GenCyberATX"
+        },
+        "translated-title" : null
+      },
+      "external-ids" : null,
+      "url" : {
+        "value" : "https://tacc.utexas.edu/education/k-12-students/high-school-camps/gencyber/"
+      },
+      "type" : "grant",
+      "start-date" : {
+        "year" : {
+          "value" : "2020"
+        },
+        "month" : {
+          "value" : "04"
+        },
+        "day" : null
+      },
+      "end-date" : {
+        "year" : {
+          "value" : "2022"
+        },
+        "month" : {
+          "value" : "03"
+        },
+        "day" : null
+      },
+      "organization" : {
+        "name" : "National Security Agency",
+        "address" : {
+          "city" : "Fort George Meade",
+          "region" : "MD",
+          "country" : "US"
+        },
+        "disambiguated-organization" : {
+          "disambiguated-organization-identifier" : "https://ror.org/0047bvr32",
+          "disambiguation-source" : "ROR"
+        }
+      },
+      "visibility" : "public",
+      "put-code" : 1637946,
+      "path" : "/0000-0003-1377-5422/funding/1637946",
+      "display-index" : "1"
+    } ]
+  } ],
+  "path" : "/0000-0003-1377-5422/fundings"
+}
