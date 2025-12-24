@@ -1,0 +1,42 @@
+
+<!-- Citations Start -->
+
+<div class="csl-bib-body" style="line-height: 1.35; ">
+      
+  {% for ref  in site.data.powell-citations.references %}
+        
+          <div class="csl-entry">
+            <details>
+              <summary>{{ ref.title}}</summary>
+            {% for auth in ref.author %}
+              {{ auth.given }} {{ auth.family}},
+            {% endfor %}
+            
+            {% for dateissued in ref.issued %}
+              {{ dateissued.year }}. 
+
+            {% endfor%}
+
+            "{{ ref.title}}."
+            
+            {% if ref.container-title %}
+            In 
+            <i>{{ ref.container-title | camelcase}}</i>. 
+             {% endif %}
+
+            {% if ref.publisher %}
+              {{ ref.publisher }}. 
+            {% endif %}
+
+            {% if ref.DOI %}
+              <a href="https://doi.org/{{ref.DOI}}">https://doi.org/{{ref.DOI}}</a>.
+            {% endif %}
+            </details>
+            </div>
+          <span class="Z3988"
+            title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1109%2Figarss.2009.5418148&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Establishing%20field%20and%20base%20camp%20servers%20for%20remote%20sensing%20of%20ice%20sheets%20in%20ilulissat%2C%20Greenland&amp;rft.btitle=2009%20IEEE%20International%20Geoscience%20and%20Remote%20Sensing%20Symposium&amp;rft.publisher=IEEE&amp;rft.aufirst=Linda&amp;rft.aulast=Hayden&amp;rft.au=Linda%20Hayden&amp;rft.au=Je'aime%20H.%20Powell&amp;rft.au=Eric%20Akers&amp;rft.date=2009"></span>
+          ---
+      {% endfor %}
+</div>
+
+<!-- Citations End -->

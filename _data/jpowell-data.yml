@@ -1,0 +1,180 @@
+
+
+## EXAMPLE SYNTAX####
+#  name:
+#    type: [] #certs_training, memberships, theatre_music, projects_programs
+#            #science_fair, news_article, conference_workshop, community, 
+#            #competition, merrit, accommodation, K12_accommodation, letters_accomodation
+#            #certificate, letter   
+#    role:
+#    organization:
+#    organizationurl:
+#    img:
+#    year:
+#    externalurl:
+#    pdf: [] 
+#    pdfdescription: []
+#    description:
+
+awards:
+  - name: Advanced Studies Diploma
+    type: [education]
+    organization: I.C. Norcom High School
+    organizationurl: https://nhs.ppsk12.us/
+    year: 1997
+    img: assets/certs_training/1997-hs-norcom-diploma.jpg
+  - name: Macintosh Support
+    type: [training]
+    organization: Canon Information Technology Services
+    organizationurl: https://www.cits.canon.com/
+    year: 2003
+    img: assets/certs_training/2003-canonmac.jpg
+  - name: Fax / Multifunction Product Support Representative  
+    type: [training]
+    organization: Canon Information Technology Services
+    organizationurl: https://www.cits.canon.com/
+    year: 2003
+    img: assets/certs_training/2003-canonmfp.jpg
+  - name: Bachelor of Science in Computer and Information Science
+    type: [education]
+    organization: Elizabeth City State University
+    organizationurl: https://www.ecsu.edu
+    year: 2004
+    img: assets/certs_training/2004-bs-ecsu-degree.JPG
+  - name: Color Models
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-colormodels.png
+  - name: DR-6080/9080C
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-drscanner.png
+  - name: Basic ColorPASS Technologies
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-imagepass.png
+  - name: The Observer
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-observer.png
+  - name: Introduction to Prepress and Printing
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-prepressprinting.png
+  - name: imagePROGRAF W2200
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-w2200.png
+  - name: imagePROGRAF W7200/8200/6200 and BJ-W7000
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2005
+    img: assets/certs_training/2005-canon-w7200.png
+  - name: Criterian-Referenced Instruction
+    type: [certification]
+    organization: The Center for Effective Performance, Inc.
+    organizationurl: https://www.instructionaldesign.org/theories/criterion-referenced/
+    year: 2005
+    img: assets/certs_training/2005-criterionreferencedinstruction.png
+  - name: Instructional Module Development
+    type: [certification]
+    organization: The Center for Effective Performance, Inc.
+    organizationurl: https://www.instructionaldesign.org/theories/criterion-referenced/
+    year: 2005
+    #img: assets/certs_training/2005-criterionreferencedinstruction.png
+  - name: imagePROGRAF IPF5000
+    type: [certification]
+    organization: Canon Systems and Technical Support Division 
+    organizationurl: https://www.usa.canon.com
+    year: 2006
+    img: assets/certs_training/2006-canon-ipf5000.png
+  - name: Medic First Aid Training Program
+    type: [certification]
+    organization: Medic First Aid International
+    organizationurl: https://www.linkedin.com/pulse/medic-first-aid-international-basic-aditya-aimvisionsafety/
+    year: 2006
+    img: assets/certs_training/2006-firstresponder.png
+  - name: Adobe Flash 8
+    type: [training]
+    organization: Infotec Training
+    organizationurl: https://www.infotectraining.com/
+    year: 2006
+    img: assets/certs_training/2006-flashtraining.jpeg
+  - name: Windows XP
+    type: [certification]
+    organization: ExpertRating Global Certifications
+    organizationurl: https://www.expertrating.com/
+    year: 2006
+    img: assets/certs_training/2006-windowsxp.png
+  - name: Master of Science in Mathematics 
+    type: [education]
+    organization: Elizabeth City State University
+    organizationurl: https://www.ecsu.edu
+    year: 2010
+    img: assets/certs_training/2010-ms-ecsu-diploma.jpeg
+  - name: A+
+    type: [certification]
+    organization: CompTIA
+    organizationurl: https://www.comptia.org
+    year: 2013
+    img: assets/certs_training/2013-comptia-A.jpg
+  - name: Network+
+    type: [certification]
+    organization: CompTIA
+    organizationurl: https://www.comptia.org
+    year: 2013
+    img: assets/certs_training/2013-comptia-network.jpg
+  - name: Security+
+    type: [certification]
+    organization: CompTIA
+    organizationurl: https://www.comptia.org
+    year: 2013
+    img: assets/certs_training/2013-comptia-security.jpg
+  - name: Cray XC30 System Administration and Hardware Lab
+    type: [certification, training]
+    organization: Cray Inc.
+    organizationurl: https://www.hpe.com/us/en/compute/hpc/supercomputing/cray-exascale-supercomputer.html
+    year: 2015
+    img: assets/certs_training/2015-cray-xc30hw.png
+  - name: Python Programming
+    type: [training]
+    organization: Orange County Library System
+    organizationurl: https://ocls.info
+    year: 2016
+    img: assets/certs_training/2016-python.png
+  - name: 3D Printing Fundamentals
+    type: [training]
+    organization: Orange County Library System
+    organizationurl: https://ocls.info
+    year: 2017
+    img: assets/certs_training/2017-3dprinting-fundamentals.png
+  - name: 3D Design for Printing Level I
+    type: [training]
+    organization: Orange County Library System
+    organizationurl: https://ocls.info
+    year: 2017
+    img: assets/certs_training/2017-3dprintingI.png
+  - name: 3D Design for Printing Level II
+    type: [training]
+    organization: Orange County Library System
+    organizationurl: https://ocls.info
+    year: 2017
+    img: assets/certs_training/2017-3dprintingII.png
+
+
+
+
+    

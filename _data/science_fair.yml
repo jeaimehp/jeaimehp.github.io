@@ -1,0 +1,192 @@
+  - name: The Carbike
+    year: 1991
+    img: assets/science_fair/1991-engineeringolympics.jpeg
+    awards:
+      - award_name: CHROME Engineering Olympics Participation
+        type: [award, "science_fair"]
+        organization: "Cooperating Hampton Roads Organizations for Minorities in Engineering (CHROME)"
+        organizationurl: https://chrome.org/
+        img: assets/science_fair/1991-chromeolympics.jpg
+      - award_name: 1st Place - Zeta Phi Beta
+        type: [award, "science_fair"]
+        organization: "Zeta Phi Beta Sorority, Incorporated"
+        organizationurl: https://zphib1920.org
+        img: assets/science_fair/1990-sf-zpb.jpg
+
+  - name: The Effects of Atmospheric Breakage on the Weather
+    year: 1994
+    files:
+      - name: Draft Report
+        type: PDF
+        url: assets/science_fair/reports/atmosphericbreakage.pdf
+    awards:
+      - award_name: NAACP-ACTSO Science Fair
+        type: [award, "science_fair"]
+        organization: NAACP ACT-SO Youth Program
+        organizationurl: https://naacp.org/our-work/youth-programs/act-so-achievement-program
+        img: assets/science_fair/1994-accomodation.jpg
+      - award_name: Physics/Electronics - NAACP-ACTSO Science Fair
+        type: [award, "science_fair"]
+        organization: NAACP ACT-SO Youth Program
+        organizationurl: https://naacp.org/our-work/youth-programs/act-so-achievement-program
+        img: assets/science_fair/1994-actso.jpg
+      - award_name: Computer Science - NAACP-ACTSO Science Fair
+        type: [award, "science_fair"]
+        organization: NAACP ACT-SO Youth Program
+        organizationurl: https://naacp.org/our-work/youth-programs/act-so-achievement-program
+        img: assets/science_fair/1994-actso2.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1994-sf.jpg
+
+  - name: The Effects of Atmospheric Breakage on the Weather II
+    year: 1995
+    files:
+      - name: Report
+        type: PDF
+        url: assets/science_fair/reports/atmosphericbreakage2.pdf
+    awards:
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1995-army.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1995-noaa.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1995-sf.jpeg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1995-sf.jpg
+
+  - name: "TI-Net: The Texas Instruments Network"
+    year: 1996
+    files:
+      - name: Report
+        type: PDF
+        url: assets/science_fair/reports/tinet.pdf
+    awards:
+      - award_name:
+        type: [award, "science_fair"]
+        organization: 
+        organizationurl:
+        img: assets/science_fair/1996-afcea.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-cia.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-cia2.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-cia3.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-sf.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-sf1st.JPG
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-sfaccomodation.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1996-sfnvcc.jpg
+
+  - name: TI-Net 2
+    year: 1997
+    awards:
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-accomadation.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-afcea-1st.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-afcea.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-jeffersonlabs.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-navalscience.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sf-1stplace.JPG
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sf-awardofexcellence.JPG
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sf-tinet.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sf-trophy.png
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sf1st.JPG
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sfawardofexcellence.JPG
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sfnvcc.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sfnvcc2.jpg
+      - award_name:
+        type: [award, "science_fair"]
+        organization:
+        organizationurl:
+        img: assets/science_fair/1997-sfvabeach.jpg

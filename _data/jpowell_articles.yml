@@ -1,0 +1,119 @@
+  - name: "OPENING SHUTTERS"
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/ 
+    year: 1994
+    img: assets/news_article/1994-openingshutters-preperationforthegame.jpeg
+    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1994/vp941008/10080033.htm
+    pdf: [assets/news_article/1994-openingshutters.pdf]
+    pdfdescription: ["Full Article"]
+    description: >
+      Open Shutters: Photographic Impressions by African Americans in Hampton Roads Grant: https://discoveryvirginia.org/open-shutters-photographic-impressions-african-americans-hampton-roads 
+  - name: "COMPUTER WINDOW TO THE WORLD PORTSMOUTH STUDENTS ARE MAKING E-MAIL, CHAT ROOMS AND AN ONLINE BULLETIN BOARD THAT ALLOWS THEM TO CHECK ON THEIR HOMEWORK ASSIGNMENTS PART OF THEIR DAILY ROUTINES."
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1996
+    img: assets/news_article/1996-JPowell-currents-vipilot.jpeg
+    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960714/07130075.htm
+    pdf: [assets/news_article/1996-vapilot-computerwindowtotheworld.pdf]
+    pdfdescription: ["Full Article"]
+  - name: "THE CHEMISTRY WAS RIGHT LOVE OF SCIENCE, CAN-DO ATTITUDE PUSHES GIRL TO EXCEL IN A SUBJECT DOMINATED BY THE BOYS."
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1996
+    #img: 
+    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960919/09190355.htm
+    pdf: [assets/news_article/1996-nsucmr.pdf]
+    pdfdescription: ["Full Article"]
+    description: "Mentioned in the article as a fellow student selected for the Norfolk State Center for Materials Research summer research program."
+  - name: "CONFRONTING THE GHOSTS OF GROWTH: PAST, PRESENT AND FUTURE VOTERS GRAPPLE WITH PRIORITIES AND EXPECTATIONS AS THEY PREPARE TO CHOOSE CITY AND SCHOOL LEADERS."
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1996
+    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960414/04140050.htm
+    pdf: [assets/news_article/1996-vapilot-schoolboard.pdf]
+    pdfdescription: ["Full Article"]
+  - name: "TEENS AIMING TO BRING PEERS POSITIVE MESSAGES"
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1997
+    #img: 1997-peerspositivemessages.pdf
+    #externalurl:
+    pdf: [assets/news_article/1997-peerspositivemessages.pdf]
+    pdfdescription: ["Full Article"]
+  - name: "Je'aime Powell, an I.C. Norcom High School student, recently won a first place at the Tidewater Science Fair"
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1997
+    #img: 1997-sf-jeffersonlabs.pdf
+    #externalurl:
+    pdf: [assets/news_article/1997-sf-jeffersonlabs.pdf]
+    pdfdescription: ["Full Article"]
+  - name: "STUDENTS TAKING INFORMATION ON POSITIVE CHOICES TO THE MEDIA"
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1997
+    #img: 1997-vapilot-positivechoices.pdf
+    #externalurl:
+    pdf: [assets/news_article/1997-vapilot-positivechoices.pdf]
+    pdfdescription: ["Full Article"]
+  - name: "YOUTHS TO PROMOTE HAPPY LIFESTYLES AND RESPONSIBLE BEHAVIOR"
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1997
+    img: assets/news_article/1997-vapilot-responsiblecitizens.pdf
+    #externalurl:
+    pdf: [assets/news_article/1997-vapilot-responsiblecitizens.pdf]
+    pdfdescription: ["Full Article"]
+  - name: "EXPERIMENT ALLOWS CALCULATORS TO WORK AS COMPUTERS WOULD"
+    type: [article, newspaper]
+    organization: The Virginian-Pilot
+    organizationurl: https://www.pilotonline.com/
+    year: 1997
+    img: assets/news_article/1997-vapilot-successstories.png
+    externalurl: https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1997/vp970523/05220465.htm
+    pdf: [assets/news_article/1997-vapilot-tinet.pdf]
+    pdfdescription: ["Full Article"]
+  - name: Photography Credit
+    type: [article, newspaper]
+    organization: "The Compass (Elizabeth City State University Student Newspaper)"
+    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+    year: 1998
+    img: assets/news_article/1998-ecsucompass-photocredit.png
+    #externalurl:
+    #pdf: [1998-ecsucompass-photocredit.png]
+    pdfdescription: ["Full Article"]
+  - name: Photography Credit
+    type: [article, newspaper]
+    organization: "The Compass (Elizabeth City State University Student Newspaper)"
+    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+    year: 1998
+    img: assets/news_article/1998-ecsucompass-photocredit2.png
+    #externalurl:
+    #pdf: [1998-ecsucompass-photocredit2.png]
+    pdfdescription: ["Full Article"]
+  - name: Photography Credit
+    type: [article, newspaper]
+    organization: "The Compass (Elizabeth City State University Student Newspaper)"
+    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+    year: 1998ecsu
+    img: assets/news_article/1998ecsu-compass-photographer.png
+    #externalurl:
+    #pdf: [1998ecsu-compass-photographer.png]
+    pdfdescription: ["Full Article"]
+  - name: "University Players Perform Award-winning Musical (The Me Nobody Knows)"
+    type: [article, newspaper]
+    organization: "The Compass (Elizabeth City State University Student Newspaper)"
+    organizationurl: https://www.digitalnc.org/newspapers/elizabeth-city-state-university-student-newspaper/
+    year: 1999
+    img: assets/news_article/1999-ecsuuniversityplayers-themenobodyknows.png
+    #externalurl:
+    pdf: [assets/news_article/1999-ecsuuniversityplayers-themenobodyknows.pdf]
+    pdfdescription: ["Full Article"]

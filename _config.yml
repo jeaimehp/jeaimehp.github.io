@@ -1,9 +1,268 @@
-theme: jekyll-theme-minimal
-#logo: /images/jeaime-powell.png
-logo: /images/JeaimePowell-logo.png
-#title: "Je'aime Powell - Portfolio"
-title: ""
-favicon: favicon.ico
-#description: Minimal is a theme for GitHub Pages.
-#show_downloads: true
-#google_analytics:
+# Site settings
+
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "https://jeaimehp.github.io"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+#baseurl: /personal-jekyll-theme
+
+# Google tracking id
+
+google-tracking-id: ""
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: True
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Je'aime H. Powell"
+title: "{ Je'aime H. Powell }"
+description: >
+  Greetings!, I’m Je’aime Powell
+  I work at the intersection of high-performance computing, AI, and workforce development, helping people make sense of—and actually use—advanced computing systems. My passion is building technology and communities that lower barriers to research computing, so students, faculty, and researchers can focus on discovery instead of infrastructure.
+  I’m a Product & Systems Analyst at Omnibond Systems, where I help design and deploy projectEUREKA!, a hybrid-cloud research platform that brings HPC, AI, Kubernetes, and science-gateway workflows together in a way that’s practical and approachable. I spend a lot of my time hands-on: building clusters, integrating tools, testing real workloads, and thinking deeply about how people experience research infrastructure—not just how it works on paper.
+  Equally important to me is the human side of technology. I’m actively involved in workforce development and community-driven training, working with programs like SGX3, HackHPC, and faculty hackathons to help students and educators gain real, transferable skills. I believe the best way to learn advanced computing is by doing—through hackathons, demos, and working systems that reflect how research actually happens.
+  You’ll often find me contributing to and learning from communities around Supercomputing (SC), Gateways, ADMI, and US-RSE, where I advocate for inclusive access to cyberinfrastructure, sustainable research software, and training pathways that connect education to real-world impact.
+
+  At the core of everything I do is a simple belief:
+  Advanced computing should feel Empowering, not Overwhelming.
+
+
+keywords: "powell, jeaime, hackathons, hpc, cyberinfrastructure, research, STEM, IoT, cloud-computing, diy, opensource"
+favicon: "/img/favicon.ico"
+
+################
+# Header layout #
+################
+
+black-favicon: #"/img/icon.png" # "/img/black-lab-glass.ico"
+logo: "img/JeaimePowell-logo.png" #"/img/author.png" # leave blank if you don't want a logo
+
+background-img: "../img/squirrelinserverroom_blurred.jpeg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "There’s always something to look at if you open your eyes! ~5th Doctor"
+  - text: "Do or do not. There is no try. ~Master Yoda"
+  - text: "One day or Day one, you decide ~Paulo Coelho"
+  - text: "The first principle is that you must not fool yourself and you are the easiest person to fool. ~Richard P. Feynman"
+  - text: "If life is a box of chocolates, then I want the pecan turtle! ~Je'aime Powell"
+  - text: "If we teach today's students as we taught yesterday's, we rob them of tomorrow. ~John Dewey"
+  - text: "People who are crazy enough to think they can change the world are the ones who do. ~Steve Jobs"
+  - text: "Never be cruel. Never be cowardly. Hate is always foolish. Love is always wise. Always try to be nice, but never fail to be kind. ~12th Doctor"
+  - text: "Weniger, Aber Besser [Less, But Better] ~Dieter Rams"
+  - text: "Whole worlds pivot on acts of imagination. ~13th Doctor"
+  - text: "Life depends on change, and renewal. ~2nd Doctor"
+  - text: "To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be. - Unknown"
+
+me-img: "/img/jeaime-sq.png" #"/img/jetpacktocat.png"
+
+
+
+
+
+
+# To use facebook profile pic comment the previous line and uncomment the following
+# line, and replace 'user_id' with your facebook user id.
+# Facebook user id can be found by clicking on your profile pic and the large number
+# in the end of the url just before '&type' is your user id.
+# Note: fbid is not the same as user id and user id only contains numbers
+
+# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+
+# To use github profile pic uncomment the following line and replace 'user_name'
+# with your github user name.
+
+# me-img: "https://github.com/user_name.png?size=500"
+
+# To use gravatar profile pic uncomment the following line and replace 'email_hash'
+# with your gravatar profile email hash.
+# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
+# just enter your email and it will generate the hash.
+
+# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+########
+# Blog #
+########
+
+enable-gesture-navigation: True
+
+post-preview-words: 96
+
+paginate: 5
+
+email-share: True
+fb-share: True
+twitter-share: True
+linkedin-share: True
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
+
+disqus-shortname: "personal-jekyll-theme"
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+  - image: "/img/timeline/spidertocat.png"
+    name: "Projects"
+  - image: "/img/timeline/certificate_7238706.png"
+    name: "Certifications"
+    #description: "Saving the neighborhood!"
+  - image: "/img/timeline/baracktocat.jpg"
+    name: "Publications"
+    #description: "Started coding"
+  - image: "/img/timeline/baracktocat.jpg"
+    name: "Awards"
+    #description: "Started coding"
+  - image: "/img/timeline/baracktocat.jpg"
+    name: "Media Appearances"
+    #description: "Started coding"
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/default.png"
+
+###########
+# Contact #
+###########
+
+email: "jeaimehp@gmail.com"
+
+# Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
+pgp: False
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+# if the author_blurb is not set, then this feature is skipped
+author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb_image: "/img/author.png"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "envelope"
+    url: "mailto:jeaimehp@gmail.com?subject=[jeaimehpc-site-contact]"
+  - title: "linkedin"
+    facategory: "fa-brands"
+    url: "https://www.linkedin.com/in/jeaimehp"
+  - title: "x-twitter"
+    facategory: "fa-brands"
+    url: "https://twitter.com/jeaimehpc"
+  - title: "github"
+    url: "https://github.com/jeaimehp"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UCDzJYzm3MsO5B_sWTQ295Kg"
+  - title: "rss"
+    url: "/feed.xml"
+  - title: "orcid"
+    facategory: "fa-brands"
+    url: "https://orcid.org/0000-0003-1377-5422"
+  - title: "researchgate"
+    facategory: "fa-brands"
+    url: "https://www.researchgate.net/profile/Jeaime-Powell"
+
+############
+# 404 page #
+############
+
+err-404-img: "/img/labtocat.png"
+
+##################
+# GPG on Keybase #
+##################
+
+keybase-username: jeaimehp
+keybase-in-social: True
+keybase-in-footer: True
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: "about"
+  #Blog: "latest-post"
+  Documents: "latest-post"
+  Media: "media"
+  Timeline: "timeline"
+  Contact: "contact"
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jemoji
+  

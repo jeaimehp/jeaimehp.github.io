@@ -1,0 +1,682 @@
+---
+references:
+- id: '6351390'
+  abstract: >-
+    The Charles Creek area in Elizabeth City, NC experiences frequent flood
+    conditions seemingly unrelated to rainfall amounts. The purpose of this
+    study was to compare barometric pressures, lunar cycles, wind directions,
+    and wind speeds with water depth readings of Charles Creek (a tributary of
+    the Pasquotank River). A static remote imaging system was used to measure
+    water depth through pixel enumeration and referencing through remote sensing
+    techniques coupled with custom image processing software. Environmental data
+    was collected through Elizabeth City State University's National Renewable
+    Energy Laboratory Weather Monitoring Station. The data was correlated using
+    MINITAB (R) to find an equation to approximate a model of the rise of the
+    Creek water level based upon environmental conditions. The regression
+    equation had a coefficient of determination of 42%; this means there was a
+    42% probability the model was useful at predicting the pixel count based on
+    environmental variables.
+  author:
+    - family: Dykes
+      given: Nartezya
+    - family: Easley
+      given: Lekedrick
+    - family: Powell
+      given: Je'aime
+    - family: Mitchell
+      given: Jerome E.
+    - family: Hayden
+      given: Kuchumbi L.
+  citation-key: '6351390'
+  container-title: 2012 IEEE international geoscience and remote sensing symposium
+  DOI: 10.1109/IGARSS.2012.6351390
+  issued:
+    - year: 2012
+  license: All rights reserved
+  page: 966-969
+  title: >-
+    Charles Creek Flood Zone Modeling: A correlation study of environmental
+    conditions versus water level in the Pasquotank watershed
+  type: paper-conference
+
+- id: austinIntegrationWebApplication
+  abstract: >-
+    Mashups are an exciting genre of interactive Web applications that draw upon
+    content retrieved from external data sources to create entirely new and
+    innovative services. The purpose of the Mobile Applications Research Team
+    was to create an interface mashup in which geographic information and meta
+    data from buildings located on the campus of Elizabeth City State University
+    (ECSU) can be presented to users via mobile platforms. The project includes
+    HTML5 programming which referenced a database that housed information such
+    as location, building establishment date, academic departments, and academic
+    programs. The information was then compiled using a PHP Hypertext Processor
+    (PHP) form to populate a MySQL database. HTML5 coupled with PHP programming
+    was then used to render a mobile web page with both map and database
+    information.
+
+    Using Google Map Maker paths, streets, and buildings were created in
+    appropriate geographic locations on the ECSU campus. The Google Maps
+    Application Programming Interface was then used to generate Uniform Resource
+    Locator's to both retrieve user Global Positioning System coordinates and
+    create walking directions to selected locations. The user then had the
+    ability to generate walking directions to locations on the university's
+    campus.
+  author:
+    - family: Austin
+      given: Michael
+    - family: Barmore
+      given: Nyema
+    - family: Brumfield
+      given: Andrew
+    - family: Deloatch
+      given: Justin
+    - family: Powell
+      given: Jeaime
+    - family: PI
+      given: Linda Hayden
+  citation-key: austinIntegrationWebApplication
+  license: All rights reserved
+  title: >-
+    Integration With A Web Application To Create Navigational Instructions For
+    Locations On The Campus Of Elizabeth City State University
+  type: article-journal
+
+- id: clevelandTapisCHORDSIntegrationTimeSeries2019
+  abstract: >-
+    The explosion of IoT devices and sensors in recent years has led to a demand
+    for efficiently storing, processing and analyzing time-series data.
+    Geoscience researchers use time-series data stores such as Hydroserver,
+    VOEIS and CHORDS. Many of these tools require a great deal of infrastructure
+    to deploy and expertise to manage and scale. Tapis's (formerly known as
+    Agave) platform as a service provides a way to support researchers in a way
+    that they are not responsible for the infrastructure and can focus on the
+    science. The University of Hawaii (UH) and Texas Advanced Computing Center
+    (TACC) have collaborated to develop a new API integration that combines
+    Tapis with the CHORDS time series data service to support projects at both
+    institutions for storing, annotating and querying time-series data. This new
+    Streams API leverages the strengths of both the Tapis platform and CHORDS
+    service to enable capabilities for supporting time-series data streams not
+    available in either tool alone. These new capabilities may be leveraged by
+    Tapis powered science gateways with needs for handling spatially indexed
+    time-series data-sets for their researchers as they have been at UH and
+    TACC.
+  author:
+    - family: Cleveland
+      given: Sean B
+    - family: Jamthe
+      given: Anagha
+    - family: Padhy
+      given: Smruti
+    - family: Powell
+      given: Je’aime
+    - family: Stubbs
+      given: Joe
+    - family: Daniels
+      given: Michael D
+    - family: Pierce
+      given: Suzanne A
+    - family: Jacobs
+      given: Gwen A
+  citation-key: clevelandTapisCHORDSIntegrationTimeSeries2019
+  container-title: 'Conference: Science Gateways 2019At: San Diego, CA'
+  issued:
+    - year: 2019
+  license: All rights reserved
+  title: >-
+    Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway
+    Infrastructure
+  type: paper-conference
+
+- id: deyTransitioningEducationTraining2021
+  abstract: >-
+    Interaction is the key to making education more engaging. Effective
+    interaction is difficult enough to achieve in a live classroom, and it is
+    extremely challenging in a virtual environment. To keep the degree of
+    instruction and learning at the levels our students have come to expect,
+    additional efforts are required to focus efforts on other facets to motivate
+    learning, whether the learning is relative to students in our academic
+    courses, student internship programs, Summer Institute Series, or NSF/TACC's
+    Frontera Fellowship Program. We focus our efforts in lecturing less and
+    interacting more.
+  accessed:
+    - year: 2023
+      month: 8
+      day: 30
+  author:
+    - family: Dey
+      given: S. Charlie
+    - family: Eijkhout
+      given: Victor
+    - family: Koesterke
+      given: Lars
+    - family: Powell
+      given: Je'aime
+    - family: Lindsey
+      given: Susan
+    - family: Gomez
+      given: Rosalia
+    - family: Kuritz
+      given: Brandi
+    - family: Freeze
+      given: Joshua
+  citation-key: deyTransitioningEducationTraining2021
+  container-title: The Journal of Computational Science Education
+  container-title-short: JOCSE
+  DOI: 10.22369/issn.2153-4136/12/2/3
+  ISSN: '21534136'
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 2
+  license: All rights reserved
+  page: 18-20
+  source: DOI.org (Crossref)
+  title: Transitioning Education and Training to a Virtual World, Lessons Learned
+  type: article-journal
+  URL: http://www.jocse.org/articles/12/2/3/
+  volume: '12'
+
+- id: gilDemocratizingModelingScale2021
+  abstract: >-
+    We use AI techniques to create a modeling environment that makes
+    sophisticated models accessible to non-experts. Our AI framework for Model
+    INTegration (MINT) assists users to explore scenarios, which MINT can run in
+    a local environment or at scale in a supercomputing facility. We are using
+    MINT with hydrology, agriculture, and drought models for food security.
+  author:
+    - family: Gil
+      given: Yolanda
+    - family: Osorio
+      given: Maximiliano
+    - family: Ratnakar
+      given: Varan
+    - family: Pierce
+      given: Suzanne
+    - family: Powell
+      given: Je’aime
+    - family: Thorne
+      given: Nick
+    - family: Lubbs
+      given: Peter
+  citation-key: gilDemocratizingModelingScale2021
+  container-title: 2021 IEEE 17th International Conference on eScience (eScience)
+  DOI: 10.1109/eScience51609.2021.00054
+  issued:
+    - year: 2021
+  license: All rights reserved
+  page: 269-270
+  title: Towards Democratizing Modeling at Scale
+  type: paper-conference
+
+- id: haydenEstablishingFieldBase2009
+  abstract: >-
+    The University of Indiana and Elizabeth City State University are working
+    with the Center for Remote Sensing of Ice Sheets (CReSIS) to develop and
+    deploy cyberinfrastructure grid computing resources and synthetic aperture
+    radar (SAR) data storage capabilities for Greenland and Antarctic fieldwork.
+    This paper will detail the Summer 2008 efforts of the Polar Grid team to
+    configure and establish field and base camp servers. The base camp system
+    consists of one eight-core server, three raid arrays with 34 terabytes (TB)
+    of total storage in a RAID 10 configuration (13 TB useable), a custom
+    designed compact peripheral control interface (CPCI) system, and 80 TB of
+    external storage in the form of 40 two TB MyBook external hard drives. The
+    field camp system also consisted of one eight-core server, but did not
+    contain the raid arrays. Multiple SATA hard drives were used to store the
+    data.
+  author:
+    - family: Hayden
+      given: Linda
+    - family: Powell
+      given: Je'aime H.
+    - family: Akers
+      given: Eric
+  citation-key: haydenEstablishingFieldBase2009
+  container-title: 2009 IEEE International Geoscience and Remote Sensing Symposium
+  DOI: 10.1109/igarss.2009.5418148
+  issued:
+    - year: 2009
+  license: All rights reserved
+  publisher: IEEE
+  title: >-
+    Establishing field and base camp servers for remote sensing of ice sheets in
+    ilulissat, Greenland
+  type: paper-conference
+  URL: https://doi.org/10.1109%2Figarss.2009.5418148
+
+- id: haydenHandsonGPSRemote2010
+  abstract: >-
+    Continuing the commitment of the Geoscience and Remote Sensing Society
+    (GRSS) to education and outreach, the IEEE 2009 International Geoscience and
+    Remote Sensing Symposium (IGARSS) conference in Cape Town, South Africa
+    provided an opportunity for over 400 local high school students to engage in
+    hand-son GPS training and remote sensing workshops. Mafeteng Schools
+    Environment Network (MSEN) and the Students' Health and Welfare Centres
+    Organization (SHAWCO) worked with the University of Cape Town (UCT) in
+    identifying student learners from socioeconomically challenged populations
+    in metropolitan Cape Town. Activities included a remote sensing art
+    workshop, Mathematics of Remote Sensing team contest, and a scavenger hunt.
+    National Oceanic and Atmospheric Administration (NOAA) scientists led
+    discussions and demonstrations of educational products to help build
+    understanding of the science of Earth's systems and the stewardship of our
+    planet, and to foster avenues to explore careers in science. This paper
+    details the education outreach events and gives demographic information on
+    the participants.
+  author:
+    - family: Hayden
+      given: Linda
+    - family: Jearld
+      given: Ambrose
+    - family: Hayden
+      given: Kuchumbi
+    - family: Jackson
+      given: Nina L
+    - literal: others
+  citation-key: haydenHandsonGPSRemote2010
+  container-title: 2010 IEEE International Geoscience and Remote Sensing Symposium
+  issued:
+    - year: 2010
+  license: All rights reserved
+  page: 1118–1121
+  publisher: IEEE
+  title: >-
+    Hands-on GPS and remote sensing training for high school learners during
+    IGARSS 2009 in Cape Town, South Africa
+  type: paper-conference
+
+- id: haydenSpectroscopicImageSignature
+  abstract: >-
+    Through improvements in technology, high resolution multi-spectral imaging
+    allowed new capabilities to become available in the remote sensing field.
+    Spectral signature classification technologies existed in the chemical
+    spectroscopy field to identify minerals by way of active systems [1]. The
+    theory of this paper surrounded the premise that passive systems can provide
+    spectral signatures of objects within images from satellite platforms.
+    Specifically this paper targeted land cover types from the Kittyhawk, North
+    Carolina area. Multi-spectral signals presented up to seven individual
+    readings per pixel. As the decision support system, a neural network was
+    trained to decide the type of land cover based on the band readings. In an
+    effort to determine specific land cover types based on need, ground truthed
+    spectral readings were also classified using a linear model to convert the
+    readings into approximate satellite readings. The converted readings were
+    then classified by the trained neural network. A minimal r-squared valued of
+    86% was required to be considered a viable method of image classification.
+  author:
+    - family: Hayden
+      given: Linda
+    - family: Aldrich Jr
+      given: Bernard
+    - family: Je’aime Powell
+      given: Mentor
+    - family: Huff
+      given: Charniece
+  citation-key: haydenSpectroscopicImageSignature
+  license: All rights reserved
+  title: >-
+    Spectroscopic Image Signature Classification of Land Cover Types using
+    Multi-Spectral Data within a Neural Network
+  type: article-journal
+
+- id: kwekuDevelopmentAlgorithmPredict
+  abstract: >-
+    Elizabeth City State University currently operates a TeraScan Grounding
+    station capable of receiving and processing imagery data collected by
+    satellites managed by the National Oceanic and Atmospheric Administration
+    (NOAA). The imagery received in the Infrared spectrum both measures sea
+    surface temperatures and cloud cover for the eastern coast of North
+    Carolina. Once the data sets were collected, they were statistically
+    analyzed using the analysis of variance methodology and regression. Strong
+    correlations were observed during the AVHRR-Buoy comparison for two of the
+    three areas under the study. The NOAA-16 AVHRR SST emerged as the most
+    consistent with the insitu data from the ORIN7 Buoy. This was due to its
+    high coefficient of determination.
+  author:
+    - family: Kweku
+      given: Ignatius
+    - family: Ashitey
+      given: Rockson
+    - family: Hayden
+      given: Kuchumbi
+    - family: Powell, Jeaime
+      given: ''
+  citation-key: kwekuDevelopmentAlgorithmPredict
+  license: All rights reserved
+  publisher: Citeseer
+  title: >-
+    Development Of An Algorithm To Predict Coastal Buoy Temperature From
+    Advanced Very High Resolution Radiometer (AVHRR)
+  type: article-journal
+
+- id: mathenyLEAFLoggerEcological2019
+  abstract: >-
+    The fields of meteorology, surface- and groundwater hydrology, and forestry
+    are often decoupled despite the fact that they occur simultaneously at the
+    intersection of living systems and the physical environment. In this work,
+    we describe a system that allows concurrent measurement of canopy
+    throughfall, transpiration, air temperature, pressure, and humidity at
+    multiple heights, in addition to soil moisture and several surface water
+    parameters. LEAF is designed to be generalizable to many other hydrology and
+    meteorology applications, and is modular such that it is easily adaptable
+    for use with additional, diverse environmental monitoring sensors. This
+    low-cost, light-weight, solar-powered system is capable of simultaneous
+    streaming telemetry as well as local data logging via SD card.
+  author:
+    - family: Matheny
+      given: Ashley M.
+    - family: Marchetto
+      given: Peter
+    - family: Powell
+      given: Je'aime
+    - family: Rechner
+      given: Austin
+    - family: Chuah
+      given: Joon-yee
+    - family: McCormick
+      given: Erica
+    - family: Pierce
+      given: Suzanne A.
+  citation-key: mathenyLEAFLoggerEcological2019
+  container-title: HardwareX
+  DOI: 10.1016/j.ohx.2019.e00079
+  issued:
+    - year: 2019
+      month: 10
+  license: All rights reserved
+  page: e00079
+  publisher: Elsevier BV
+  title: 'LEAF: Logger for ecological and atmospheric factors'
+  type: article-journal
+  URL: https://doi.org/10.1016%2Fj.ohx.2019.e00079
+  volume: '6'
+
+- id: medinaMethodologyImageryMetadata2022
+  abstract: >-
+    Agencies such as National Oceanic and Atmospheric Administration (NOAA),
+    Texas Natural Resources Information System (TNRIS), and the National
+    Geographic Society, to name a few, collect Light Detection and Ranging
+    (LIDAR) imagery data through small surveys which are often used to generate
+    digital elevation models (DEMs). Surface water simulations and hazard
+    planning simulations often use these DEM data sets for localized
+    calculations. The data sets area at times in data silos, creating
+    bottlenecks modelers must overcome when creating needed applications.
+    Moreover, the imagery data sets are not standardized, meaning they have
+    different coordinate reference systems, they are of different spatial sizes,
+    they are of different resolutions, and they are of different geographic
+    locations. To ease usability a database was needed which included the
+    metadata for the different types of LIDAR imagery files. This database
+    system would include the following information: where the file was located
+    in the file system, what the file included, what coordinate reference system
+    was utilized, and what geographic location was associated with the file. The
+    research explains a method as to how this task was accomplished using the
+    Texas Advanced Computing Center's Stampede2 supercomputer and associated
+    storage systems.
+  author:
+    - family: Medina
+      given: AnaPatricia Olvera
+    - family: Powell
+      given: Je'aime
+  citation-key: medinaMethodologyImageryMetadata2022
+  container-title: Practice and Experience in Advanced Research Computing
+  DOI: 10.1145/3491418.3535137
+  issued:
+    - year: 2022
+      month: 7
+  license: All rights reserved
+  publisher: ACM
+  title: >-
+    Methodology for Imagery Metadata Collection and Entry into a PostgreSQL
+    Database using Stampede2
+  type: paper-conference
+  URL: https://doi.org/10.1145%2F3491418.3535137
+
+- id: mehringerAssessingSharedMaterial2023
+  abstract: >-
+    This paper shares the results of a survey conducted October-November 2022.
+    The survey’s intent was to learn how the community both shares and discovers
+    training and education materials, whether those needs were being met, and if
+    there were interest in improving how materials are shared. The survey
+    resulted in 112 responses primarily from content authors who are, or
+    support, academics. While the majority of respondents considered themselves
+    successful in finding materials, most also encountered barriers, such as
+    finding materials, but not at the needed depth or level. Most respondents
+    were both interested in, and able to, work toward community efforts to
+    improve finding materials, with most citing lack of staff time as a barrier
+    to doing so. Proposed efforts in community engagement to work toward these
+    efforts are discussed.
+  author:
+    - family: Mehringer
+      given: Susan
+    - family: Cahill
+      given: Kate
+    - family: Navarro
+      given: John-Paul
+    - family: Lathrop
+      given: Scott
+    - family: Dey
+      given: Charlie
+    - family: Thomas
+      given: Mary
+    - family: Powell
+      given: Jeaime H.
+  citation-key: mehringerAssessingSharedMaterial2023
+  container-title: The Journal of Computational Science Education
+  DOI: 10.22369/issn.2153-4136/14/2/4
+  ISSN: 2153-4136
+  issue: '2'
+  issued:
+    - year: 2023
+      month: 11
+  license: All rights reserved
+  page: 18–22
+  publisher: The Shodor Education Foundation, Inc.
+  title: >-
+    Assessing Shared Material Usage in the High Performance Computing (HPC)
+    Education and Training Community
+  type: article-journal
+  URL: http://dx.doi.org/10.22369/issn.2153-4136/14/2/4
+  volume: '14'
+
+- id: powelljeaimeHackHPCModelFostering2022
+  abstract: >-
+    Developing a workforce with applied skills in the high-performance computing
+    (HPC) field has highlighted a gap in personnel experiences needed for
+    capabilities towards scientific purposes. The exposure provided in current
+    academic programs, especially on an entry level is insufficient. To increase
+    student participation HackHPC, a collaboration between the Science Gateways
+    Community Institute, Omnibond Systems, the Texas Advanced Computing Center,
+    and the University of Tartu was formed to address that gap through the
+    application of events known as hackthons. Hackathons are time-bounded events
+    during which participants form teams to work on a project that is of
+    interest to them. Hosting a hackathon that has the desired long term
+    outcomes involves a number of crucial decisions related<br> to preparing,
+    running and following up on an event. In this paper, we report on the
+    development and refinement of the ”HackHPC Model” which includes
+    methodologies, participants, procedures, and refined implementation of
+    practices used to plan and host hackathon events to foster workforce
+    development in HPC.
+  accessed:
+    - year: 2023
+      month: 8
+      day: 30
+  author:
+    - literal: Powell, Jeaime
+    - family: Hayden
+      given: Linda Bailey
+    - family: Cannon
+      given: Amy
+    - family: Holly
+      given: John
+    - family: Dey
+      given: Charlie
+    - family: Nolte
+      given: Alexander
+  citation-key: powelljeaimeHackHPCModelFostering2022
+  DOI: 10.5281/ZENODO.7089496
+  issued:
+    - year: 2022
+      month: 9
+      day: 17
+  license: Creative Commons Attribution 4.0 International, Open Access
+  publisher: Zenodo
+  source: DOI.org (Datacite)
+  title: >-
+    The HackHPC Model: Fostering Workforce Development in High-Performance
+    Computing Through Hackathons
+  title-short: The HackHPC Model
+  type: article-journal
+  URL: https://zenodo.org/record/7089496
+
+- id: powellMultiChannelRADARDepth2010
+  abstract: >-
+    In response to problems surrounding measuring ice sheet thickness in high
+    attenuation areas of Greenland and the Antarctic, the Center for the Remote
+    Sensing of Ice Sheets (CReSIS) created a Multi-Channel RADAR Depth Sounder
+    (MCRDS). The MCRDS system was used to measure ice thicknesses of up to five
+    kilometers in depth. This system produced large datasets, which required
+    greater processing capabilities in the field. The purpose of this project
+    was to test processing performance on a 32-core cluster through distributed
+    computing resources. Testing involved a six-node cluster with an attached
+    storage array and use of the CReSIS Synthetic Aperture RADAR Processor
+    (CSARP) through the MATLAB Distributed Server Job Manager. Performance
+    testing was derived from average run times collected once CSARP jobs
+    completed. The run times were then compared using an ANOVA test with a five
+    percent significance level.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 21
+  author:
+    - family: Powell
+      given: Je'aime
+    - family: Hayden
+      given: Linda
+  citation-key: powellMultiChannelRADARDepth2010
+  container-title: 2010 IEEE International Geoscience and Remote Sensing Symposium
+  DOI: 10.1109/IGARSS.2010.5651272
+  event-place: Honolulu, HI, USA
+  event-title: >-
+    IGARSS 2010 - 2010 IEEE International Geoscience and Remote Sensing
+    Symposium
+  ISBN: 978-1-4244-9565-8
+  issued:
+    - year: 2010
+      month: 7
+  license: All rights reserved
+  page: 3358-3361
+  publisher: IEEE
+  publisher-place: Honolulu, HI, USA
+  source: DOI.org (Crossref)
+  title: >-
+    Multi-Channel RADAR Depth Sounder (MCRDS) signal processing: A distributed
+    computing approach
+  title-short: Multi-Channel RADAR Depth Sounder (MCRDS) signal processing
+  type: paper-conference
+  URL: http://ieeexplore.ieee.org/document/5651272/
+
+- id: powellOrganizingOnlineHackathons2021
+  abstract: >-
+    Acquiring computing skills is essential not only to work in computer science
+    but also because many impactful discoveries occur at the interface between
+    traditional scientific disciplines and computing and data science.
+    Time-bounded events such as hackathons can provide an opportunity for
+    newcomers to experience programming firsthand in a collaborative
+    environment. Just providing access to computational resources, however, is
+    not sufficient because newcomers will likely require guidance and support in
+    order for them to perceive their participation in a hackathon as a positive
+    experience propelling them to future success in the subject. We have
+    developed a hackathon format for this purpose that we have successfully
+    applied during in-person events for two years. The global pandemic of 2020,
+    however, forced us to move towards a virtual format. In this paper, we
+    report on our experience making this transition. We will specifically
+    elaborate on two online events, discuss successes and failures and provide
+    suggestions for hackathon organizers.
+  accessed:
+    - year: 2023
+      month: 8
+      day: 30
+  author:
+    - family: Powell
+      given: Jeaime
+    - family: Bailey Hayden
+      given: Linda
+    - family: Cannon
+      given: Amy
+    - family: Wilson
+      given: Boyd
+    - family: Nolte
+      given: Alexander
+  citation-key: powellOrganizingOnlineHackathons2021
+  container-title: >-
+    Sixth Annual International Conference on Game Jams, Hackathons, and Game
+    Creation Events
+  DOI: 10.1145/3472688.3472700
+  event-place: Montreal Canada
+  event-title: >-
+    ICGJ 2021: Sixth Annual International Conference on Game Jams, Hackathons,
+    and Game Creation Events
+  ISBN: 978-1-4503-8417-9
+  issued:
+    - year: 2021
+      month: 8
+      day: 2
+  language: en
+  license: All rights reserved
+  page: 78-82
+  publisher: ACM
+  publisher-place: Montreal Canada
+  source: DOI.org (Crossref)
+  title: >-
+    Organizing online hackathons for newcomers to a scientific community –
+    Lessons learned from two events
+  type: paper-conference
+  URL: https://dl.acm.org/doi/10.1145/3472688.3472700
+
+- id: powellTeraScanCurriculumDevelopment
+  abstract: >-
+    (ECSU) signed a Memorandum of Understanding (MOU) in February of 2012. The
+    MOU stated that ECSU would provide a training site for SeaSpace’s technology
+    and data products along with integration of the products into classroom
+    curriculum. In return, SeaSpace would provide ground stations for receiving
+    direct broadcast data from various telemetries. The ground stations include
+    a 3.7 m X/L band, 3.6 m C band, and a 5.0 m L band dish, along with
+    accompanying computing hardware. The purpose of this project was to generate
+    a training curriculum focused on the K-12 classroom, along with college
+    courses, and outside governmental agencies. The curriculum contains 15
+    modules, which as a whole could be presented as a 10-hour course that
+    qualifies as one continuing education unit (CEU) for K-12 teachers and
+    administrators. Example modules for “Introduction to Remote Sensing” and
+    “Introduction to TeraScan” were also created as models for further
+    components.
+  author:
+    - family: Powell
+      given: Mr Je’aime
+    - family: Hayden
+      given: Linda
+    - family: Farmer
+      given: Courtney
+    - family: McDonald
+      given: Kalyx
+  citation-key: powellTeraScanCurriculumDevelopment
+  license: All rights reserved
+  title: >-
+    TeraScan Curriculum Development and Integration of SeaSpace Technology into
+    the Classroom
+  type: article-journal
+
+- id: powellWorkshopPandemicControl2022
+  author:
+    - family: Powell
+      given: Jeaime
+    - family: Dey
+      given: Charlie
+    - family: Powell
+      given: Jeaime
+    - family: Sarojini
+      given: Darshan
+  citation-key: powellWorkshopPandemicControl2022
+  container-title: Supercomputing 22
+  issued:
+    - year: 2022
+  license: All rights reserved
+  title: '[Workshop] Pandemic! Control a Pandemic Disease before it Runs Rampant'
+  type: paper-conference
+...
